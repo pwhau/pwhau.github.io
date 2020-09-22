@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 陋室Blog</title>
+    <title>Categories on Wade&#39;s Blog</title>
     <link>https://pwhau.github.io/categories/</link>
-    <description>Recent content in Categories on 陋室Blog</description>
+    <description>Recent content in Categories on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 22 Sep 2020 04:07:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 02:41:17 +0800</lastBuildDate>
     
 	<atom:link href="https://pwhau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Blog</title>
       <link>https://pwhau.github.io/categories/blog/</link>
-      <pubDate>Tue, 22 Sep 2020 04:07:17 +0800</pubDate>
+      <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/categories/blog/</guid>
       <description></description>
