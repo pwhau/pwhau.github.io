@@ -1,40 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Wade&#39;s Blog</title>
-    <link>https://pwhau.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Wade&#39;s Blog</description>
+    <title>Test on 象牙塔與龜背芋</title>
+    <link>https://pwhau.github.io/categories/test/</link>
+    <description>Recent content in Test on 象牙塔與龜背芋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 23 Sep 2020 02:41:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 04:07:17 +0800</lastBuildDate>
     
-	<atom:link href="https://pwhau.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pwhau.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>迷因</title>
-      <link>https://pwhau.github.io/blog/3_memes/</link>
-      <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/3_memes/</guid>
-      <description>因為開放下載而突然流行的吉卜力迷因 點此進入吉卜力工作室官方網站  常識の範囲でご自由にお使いください。
- 請在常識範圍內自由的使用
-卻被惡搞成很多迷因圖，竟然還有第一屆推特吉卜力大喜利大賽。
-我也做了幾張迷因圖
-以後這邊可以多一個IT迷因區
-成為迷因創作者？</description>
-    </item>
-    
-    <item>
-      <title>發文準備</title>
-      <link>https://pwhau.github.io/blog/2_hello/</link>
-      <pubDate>Tue, 22 Sep 2020 04:07:17 +0800</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/2_hello/</guid>
-      <description>第二篇文章
-  分享這一首神曲
-偶然間被演算法推薦到的一首台語歌</description>
-    </item>
     
     <item>
       <title>阿龜測試 阿龜測試 1 2 3 1 2 3 </title>
@@ -59,7 +34,7 @@
     </item>
     
     <item>
-      <title>How To Use Markdown</title>
+      <title>How To Use Checklists To Improve Your UX</title>
       <link>https://pwhau.github.io/blog/0_how-to-use-markdown/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
