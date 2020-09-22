@@ -13,10 +13,10 @@
     
     <item>
       <title>迷因</title>
-      <link>https://pwhau.github.io/blog/3_memes/</link>
+      <link>https://pwhau.github.io/blog/2_memes/</link>
       <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/blog/3_memes/</guid>
+      <guid>https://pwhau.github.io/blog/2_memes/</guid>
       <description>因為開放下載而突然流行的吉卜力迷因 點此進入吉卜力工作室官方網站  常識の範囲でご自由にお使いください。
  請在常識範圍內自由的使用
 卻被惡搞成很多迷因圖，竟然還有第一屆推特吉卜力大喜利大賽。
@@ -27,35 +27,13 @@
     
     <item>
       <title>發文準備</title>
-      <link>https://pwhau.github.io/blog/2_hello/</link>
+      <link>https://pwhau.github.io/blog/1_hello/</link>
       <pubDate>Tue, 22 Sep 2020 04:07:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/blog/2_hello/</guid>
+      <guid>https://pwhau.github.io/blog/1_hello/</guid>
       <description>第二篇文章
   分享這一首神曲
 偶然間被演算法推薦到的一首台語歌</description>
-    </item>
-    
-    <item>
-      <title>阿龜測試 阿龜測試 1 2 3 1 2 3 </title>
-      <link>https://pwhau.github.io/blog/1_my-first-post/</link>
-      <pubDate>Tue, 22 Sep 2020 02:54:47 +0800</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/1_my-first-post/</guid>
-      <description>Hello
-我是阿龜
-標題1 標題2 標題6 我是阿龜，今天要開始經營個人部落格。
-  有序序列1
-  有序序列2</description>
-    </item>
-    
-    <item>
-      <title>How To Use Markdown</title>
-      <link>https://pwhau.github.io/blog/0_how-to-use-markdown/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/0_how-to-use-markdown/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
