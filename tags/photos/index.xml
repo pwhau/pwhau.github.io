@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>迷因</title>
+      <title>第一屆吉卜力迷因大賽</title>
       <link>https://pwhau.github.io/blog/2_memes/</link>
       <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
       
@@ -38,15 +38,6 @@
 以為是伺服器問題，等了一天之後，還是沒辦法解決。
 剛剛才發現要手動去修改檔案的衝突。
   分享這一首神曲</description>
-    </item>
-    
-    <item>
-      <title>How To Use Markdown</title>
-      <link>https://pwhau.github.io/blog/0_how-to-use-markdown/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/0_how-to-use-markdown/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
