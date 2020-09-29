@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="this is meta description">
+  <meta name="description" content="感覺Automator可以用來做很多事情？">
   <meta name="author" content="Wade">
   <meta name="generator" content="Hugo 0.69.0" />
 
@@ -101,19 +101,85 @@
 </header>
 <!-- /navigation -->
 
-<section class="section">
+<section class="section-sm">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-10">
-        <div id="search-results"></div>
-        <script id="search-result-template" type="text/x-js-template">
-          <div class="py-4 border-bottom" id="summary-${key}">
-            <h4><a href="${link}">${title}</a></h4>
-            <p>${snippet}</p>
-            ${ isset tags }<p>Tags: ${tags}</p>${ end }
-            ${ isset categories }<p>Categories: ${categories}</p>${ end }
-          </div>
-        </script>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <a href="/categories/hugo"
+          class="text-primary">Hugo</a>
+        
+        <h2>網站設計紀錄</h2>
+        <div class="mb-3 post-meta">
+          <span>By Wade</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>29 September 2020</span>
+          
+        </div>
+        
+        <img src="https://pwhau.github.io/images/post/4-wdlog-1.jpg" class="img-fluid w-100 mb-4" alt="網站設計紀錄">
+        
+        <div class="content mb-5">
+          <p>印象中可以把重複的程序寫成exe讓電腦執行</p>
+<p>但是Mac好像不能產生exe?內建的python應該可以吧？</p>
+<pre><code>    意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集?
+    然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？
+    照著圖片設定就可以一鍵搬運發文前的所有內容
+    再用GitHub Desktop就可以上傳了～
+</code></pre>
+<ul>
+<li>想用函數自動抓發文時間</li>
+</ul>
+<hr>
+<ul>
+<li>拿掉Social link icon，但是發現Logo歪掉，但是改好了。</li>
+</ul>
+<p>(透過mr-auto)</p>
+<ul>
+<li>響應式視窗，設計了兩個。</li>
+</ul>
+<p>一個是視窗超過(desktop)992px，顯示About me</p>
+<p>一個是視窗小於(mobile)575px，顯示Tag</p>
+<p>(讓觀眾比較好選擇想看的文章標籤?)</p>
+<ul>
+<li>Added a gallery layout in navigation bar.</li>
+</ul>
+<p>(我是用Contact去試一個新的layout)</p>
+<pre><code>1.在config.toml裡面
+	新增
+		[[menu.main]]
+	 	name = &quot;Gallery&quot;
+  		URL = &quot;gallery&quot;
+  		weight = 4
+
+2.在layouts資料夾裡面
+	新增gallery資料夾
+	新增list.html
+		{{ define &quot;main&quot; }}  (html最開頭)
+			(程式碼)
+		{{ end }}  (html最結尾)
+
+後來發現還要
+3.在content資料夾裡面
+	新增gallery資料夾
+	新增 _index.md
+		自訂裡面的md文件
+(回到layouts/gallery/list.html裡面，就可以取_index.md相關的值)
+
+</code></pre><ul>
+<li>想要在navigation bar有下拉式選單</li>
+</ul>
+<p>還要研究一下navigation bar 的button</p>
+<p>或是hover之類的語法</p>
+<ul>
+<li>連結repo的網頁</li>
+</ul>
+
+        </div>
+
+        
+        
       </div>
     </div>
   </div>

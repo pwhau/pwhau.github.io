@@ -6,10 +6,21 @@
     <description>Recent content in Test on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 22 Sep 2020 04:07:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate>
     
 	<atom:link href="https://pwhau.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>網站設計紀錄</title>
+      <link>https://pwhau.github.io/blog/4_web-design-log/</link>
+      <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/blog/4_web-design-log/</guid>
+      <description>印象中可以把重複的程序寫成exe讓電腦執行
+但是Mac好像不能產生exe?內建的python應該可以吧？
+ 意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集? 然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？ 照著圖片設定就可以一鍵搬運發文前的所有內容 再用GitHub Desktop就可以上傳了～   想用函數自動抓發文時間    拿掉Social link icon，但是發現Logo歪掉，但是改好了。  (透過mr-auto)</description>
+    </item>
     
     <item>
       <title>發文準備</title>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Wade&#39;s Blog</title>
-    <link>https://pwhau.github.io/categories/hugo/</link>
-    <description>Recent content in Hugo on Wade&#39;s Blog</description>
+    <title>Mac on Wade&#39;s Blog</title>
+    <link>https://pwhau.github.io/tags/mac/</link>
+    <description>Recent content in Mac on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate>
     
-	<atom:link href="https://pwhau.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pwhau.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,21 +20,6 @@
       <description>印象中可以把重複的程序寫成exe讓電腦執行
 但是Mac好像不能產生exe?內建的python應該可以吧？
  意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集? 然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？ 照著圖片設定就可以一鍵搬運發文前的所有內容 再用GitHub Desktop就可以上傳了～   想用函數自動抓發文時間    拿掉Social link icon，但是發現Logo歪掉，但是改好了。  (透過mr-auto)</description>
-    </item>
-    
-    <item>
-      <title>發文準備</title>
-      <link>https://pwhau.github.io/blog/1_hello/</link>
-      <pubDate>Tue, 22 Sep 2020 04:07:17 +0800</pubDate>
-      
-      <guid>https://pwhau.github.io/blog/1_hello/</guid>
-      <description>我的第二篇文章
-要練習一下怎麼使用Markdown語法
-還有發文流程步驟順序。
-不知道為什麼我的Github desktop有問題不讓我push上去。
-以為是伺服器問題，等了一天之後，還是沒辦法解決。
-剛剛才發現要手動去修改檔案的衝突。
-  分享這一首神曲</description>
     </item>
     
   </channel>
