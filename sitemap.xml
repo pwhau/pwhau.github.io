@@ -3,13 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pwhau.github.io/tags/anaconda/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pwhau.github.io/categories/blog/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://pwhau.github.io/categories/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/tags/mac/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/tags/php/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/tags/python/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/tags/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/tags/xampp/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pwhau.github.io/blog/7_murmur03/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +59,6 @@
   
   <url>
     <loc>https://pwhau.github.io/tags/murmur/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/</loc>
     <lastmod>2020-10-15T03:13:17+08:00</lastmod>
   </url>
   
@@ -59,11 +89,6 @@
   
   <url>
     <loc>https://pwhau.github.io/categories/hugo/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/mac/</loc>
     <lastmod>2020-09-29T23:23:17+08:00</lastmod>
   </url>
   

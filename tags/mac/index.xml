@@ -6,10 +6,20 @@
     <description>Recent content in Mac on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:01:17 +0800</lastBuildDate>
     
 	<atom:link href="https://pwhau.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>學習筆記01</title>
+      <link>https://pwhau.github.io/blog/7_murmur03/</link>
+      <pubDate>Mon, 09 Nov 2020 00:01:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/blog/7_murmur03/</guid>
+      <description>首先我的作業系統是MAC，而課堂上沒有詳細介紹如何安裝xmapp，但是我找到了一個非常好的教學。
+Install XAMPP Mac OS X   這裡備註幾點 1. 教學五分鐘的時候 如果卡關在終端機裡面輸入 cd /.</description>
+    </item>
     
     <item>
       <title>網站設計紀錄</title>
