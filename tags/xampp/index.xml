@@ -6,17 +6,31 @@
     <description>Recent content in xampp on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 09 Nov 2020 00:01:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 23:51:17 +0800</lastBuildDate>
     
 	<atom:link href="https://pwhau.github.io/tags/xampp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>學習筆記01</title>
+      <title>學習筆記02</title>
       <link>https://pwhau.github.io/blog/7_murmur03/</link>
-      <pubDate>Mon, 09 Nov 2020 00:01:17 +0800</pubDate>
+      <pubDate>Tue, 10 Nov 2020 23:51:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/blog/7_murmur03/</guid>
+      <description>今天是想把蒐集到的資料，映射到資料表。
+但是想當然事情不會發展得這麼順利。
+import pyMySQL 之後
+不知道為什麼執行後
+無法讀取xampp的MySQL
+顯示 2013, &amp;#39;Lost connection to MySQL server during query&amp;#39; 感覺的問題在於timeout</description>
+    </item>
+    
+    <item>
+      <title>學習筆記01</title>
+      <link>https://pwhau.github.io/blog/6_murmur02/</link>
+      <pubDate>Mon, 09 Nov 2020 00:01:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/blog/6_murmur02/</guid>
       <description>首先我的作業系統是MAC，而課堂上沒有詳細介紹如何安裝xmapp，但是我找到了一個非常好的教學。
 Install XAMPP Mac OS X   這裡備註幾點 1. 教學五分鐘的時候 如果卡關在終端機裡面輸入 cd /.</description>
     </item>
