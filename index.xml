@@ -6,10 +6,21 @@
     <description>Recent content on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 10 Nov 2020 23:51:17 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 10:07:17 +0800</lastBuildDate>
     
 	<atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>學習筆記03(加一點憂鬱)</title>
+      <link>https://pwhau.github.io/blog/8_murmur04/</link>
+      <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/blog/8_murmur04/</guid>
+      <description>安安 過了一個月沒更新，開發環境完全變了。 放棄了xampp因為連接MySQl有問題， 除非下載開源的MySQL。
+Anyway 首先恭喜自己結訓了！ 台科大的雲世代數據分析。 由於後來碰到的東西太多，這裡的文章完全來不及更新。
+現在的路線是Python為主，原本的PHP想用Python的Django來取代。 因為PHP的串接資料庫語法實在是太絢爛又華麗了。(不想認真學就說)</description>
+    </item>
     
     <item>
       <title>學習筆記02</title>
