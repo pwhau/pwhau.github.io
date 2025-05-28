@@ -9,16 +9,17 @@
     <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大改版 New Themes</title>
-      <link>https://pwhau.github.io/posts/10_upgrade/10_new-themes/</link>
+      <link>https://pwhau.github.io/posts/10_new-themes/10_new-themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/posts/10_upgrade/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/posts/10_new-themes/10_new-themes/</guid>
       
       <description>花了大概六小時幫網站換衣服。
 原本用的Hugo版本太舊了，結果不支援新的hugo主題。
 hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
 最後總算搞好了，外加搬運文章。
-還有好多東西要改的..理想的狀態是可以成功推上去。</description>
+還有好多東西要改的..理想的狀態是可以成功推上去。
+測試狀態</description>
       
     </item>
     
