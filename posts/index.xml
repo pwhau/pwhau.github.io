@@ -19,7 +19,18 @@
 hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
 最後總算搞好了，外加搬運文章。
 還有好多東西要改的..理想的狀態是可以成功推上去。
-測試狀態</description>
+測試自動部署靜態網站功能</description>
+      
+    </item>
+    
+    <item>
+      <title>測試文章</title>
+      <link>https://pwhau.github.io/posts/test/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/posts/test/</guid>
+      
+      <description></description>
       
     </item>
     
