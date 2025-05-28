@@ -5,21 +5,26 @@
     <link>https://pwhau.github.io/tags/automator/</link>
     <description>Recent content in Automator on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate>
-    
-	<atom:link href="https://pwhau.github.io/tags/automator/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate><atom:link href="https://pwhau.github.io/tags/automator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>網站設計紀錄</title>
-      <link>https://pwhau.github.io/blog/4_web-design-log/</link>
+      <link>https://pwhau.github.io/posts/4_web-design-log/4_web-design-log/</link>
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/blog/4_web-design-log/</guid>
+      <guid>https://pwhau.github.io/posts/4_web-design-log/4_web-design-log/</guid>
+      
       <description>印象中可以把重複的程序寫成exe讓電腦執行
 但是Mac好像不能產生exe?內建的python應該可以吧？
- 意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集? 然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？ 照著圖片設定就可以一鍵搬運發文前的所有內容 再用GitHub Desktop就可以上傳了～   想用函數自動抓發文時間    拿掉Social link icon，但是發現Logo歪掉，但是改好了。  (透過mr-auto)</description>
+意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集? 然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？ 照著圖片設定就可以一鍵搬運發文前的所有內容 再用GitHub Desktop就可以上傳了～ 想用函數自動抓發文時間 拿掉Social link icon，但是發現Logo歪掉，但是改好了。 (透過mr-auto)
+響應式視窗，設計了兩個。 一個是視窗超過(desktop)992px，顯示About me
+一個是視窗小於(mobile)575px，顯示Tag
+(讓觀眾比較好選擇想看的文章標籤?)
+Added a gallery layout in navigation bar. (我是用Contact去試一個新的layout)
+1.在config.toml裡面 新增 [[menu.main]] name = &amp;#34;Gallery&amp;#34; URL = &amp;#34;gallery&amp;#34; weight = 4 2.在layouts資料夾裡面 新增gallery資料夾 新增list.html {{ define &amp;#34;main&amp;#34; }} (html最開頭) (程式碼) {{ end }} (html最結尾) 後來發現還要 3.在content資料夾裡面 新增gallery資料夾 新增 _index.md 自訂裡面的md文件 (回到layouts/gallery/list.html裡面，就可以取_index.md相關的值) 想要在navigation bar有下拉式選單 還要研究一下navigation bar 的button
+或是hover之類的語法
+連結repo的網頁 </description>
+      
     </item>
     
   </channel>

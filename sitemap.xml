@@ -1,210 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://pwhau.github.io/tags/blog/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/en-gb/sitemap.xml</loc>
+    
+      <lastmod>2025-05-28T16:55:29+12:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/categories/blog/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/de-de/sitemap.xml</loc>
+    
+      <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/categories/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/fr-fr/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/tags/hugo/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/tags/mac/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/pt-br/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/tags/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/ru-ru/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/tags/vscode/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/zh-tw/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://pwhau.github.io/it/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://pwhau.github.io/blog/9_renew/</loc>
-    <lastmod>2025-05-27T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/anaconda/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/django/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/mysql/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/php/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/python/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/sqlite3/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/8_murmur04/</loc>
-    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/xampp/</loc>
-    <lastmod>2020-11-10T23:51:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/7_murmur03/</loc>
-    <lastmod>2020-11-10T23:51:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/6_murmur02/</loc>
-    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/diary/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/murmur/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/5_midnightmurmur/</loc>
-    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/test/</loc>
-    <lastmod>2020-10-04T11:16:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/automator/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/categories/hugo/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/markdown/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/test/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/vs-code/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/4_web-design-log/</loc>
-    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/gallery/</loc>
-    <lastmod>2020-09-29T19:19:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/melbourne/</loc>
-    <lastmod>2020-09-24T16:30:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/photos/</loc>
-    <lastmod>2020-09-24T16:30:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/tags/working-holiday/</loc>
-    <lastmod>2020-09-24T16:30:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/3_beginning/</loc>
-    <lastmod>2020-09-24T16:30:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/2_memes/</loc>
-    <lastmod>2020-09-23T02:41:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/1_hello/</loc>
-    <lastmod>2020-09-22T04:07:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/</loc>
-    <lastmod>2020-09-21T13:49:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/contact/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pwhau.github.io/blog/0_how-to-use-markdown/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-</urlset>
+</sitemapindex>

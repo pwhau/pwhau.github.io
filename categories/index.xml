@@ -5,19 +5,17 @@
     <link>https://pwhau.github.io/categories/</link>
     <description>Recent content in Categories on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 27 May 2025 10:07:17 +0800</lastBuildDate>
-    
-	<atom:link href="https://pwhau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 17 Dec 2020 10:07:17 +0800</lastBuildDate><atom:link href="https://pwhau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://pwhau.github.io/categories/blog/</link>
-      <pubDate>Tue, 27 May 2025 10:07:17 +0800</pubDate>
+      <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/categories/blog/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -26,7 +24,9 @@
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/categories/hugo/</guid>
+      
       <description></description>
+      
     </item>
     
   </channel>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ホーム on Wade&#39;s Blog</title>
+    <link>https://pwhau.github.io/ja/</link>
+    <description>Recent content in ホーム on Wade&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>目次</title>
+      <link>https://pwhau.github.io/ja/posts/table-of-content/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/table-of-content/</guid>
+      
+      <description>目次 ものテーマは目次(ToC)の表示に対応しています。
+引数 以下の2つの引数で目次を管理できます:
+グローバル toc 引数； 投稿の toc 引数。 投稿のtocはグローバルのtocより優先されます。
+目次をすべての投稿で有効にする 目次をすべての投稿(グローバル)で有効にするには、hugo.toml内のtoc引数をtrueに設定してください。
+[params] toc = true すべての投稿で目次を使用したくない場合、toc引数を記述しないかfalseに設定してください。
+特定投稿で目次を有効にする 目次を特定の投稿でのみ有効にする場合、投稿設定でtoc引数にtrueを設定してください。
+--- title: 目次を有効にする方法 date: 2023-05-02 toc: true --- 特定の投稿で目次を無効にする 特定の投稿でのみ目次を無効にする場合、2段階を経る必要があります。
+注意: 投稿内にある.Params.tocは.Site.Params.tocを上書きします。以下の手順を経ると、その投稿内のtoc引数はfalseになります。
+hugo.toml内のtoc引数をtrueに設定してください。
+[params] toc = true toc = falseを目次を無効にしたい投稿内のfront matterに追加してください。
+--- title: 目次を有効にする方法 date: 2023-05-02 toc: false --- 目次を開いておく方法 既定の設定では、目次は閉じられた状態で表示されます。開いた状態で表示したい場合、hugo.toml内のtocOpen引数をtrueに設定してください。
+[params] tocOpen = true あるいは、投稿内のfront matterにtocOpen引数を追加することもできます。
+--- title: 目次を有効にする方法 date: 2023-05-02 tocOpen: true --- </description>
+      
+    </item>
+    
+    <item>
+      <title>数式の組版 - ブログ投稿内で数式を表記する方法</title>
+      <link>https://pwhau.github.io/ja/posts/math-typesetting/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/math-typesetting/</guid>
+      
+      <description>&lt;p&gt;Hugoでは&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;サードパーティーJavaScriptライブラリ&lt;/a&gt;を利用することで数式を表記することができます。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdownの文法について</title>
+      <link>https://pwhau.github.io/ja/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/markdown-syntax/</guid>
+      
+      <description>&lt;p&gt;この投稿ではHugoのコンテンツファイルでご利用いただける基本的なマークダウンの文法の説明と、HugoのテーマによってCSSで整形される一部のHTML要素についてご説明いたします。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リッチコンテンツ</title>
+      <link>https://pwhau.github.io/ja/posts/rich-content/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/rich-content/</guid>
+      
+      <description>&lt;p&gt;Hugoはリッチコンテンツにご利用いただける多くの&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;標準ショートコード&lt;/a&gt;を提供しています。また、&lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;プライバシー設定&lt;/a&gt;および静的やJSを利用しないSNSの埋め込みに利用するシンプルなショートコードもご用意しております。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>プレースホルダーテキスト</title>
+      <link>https://pwhau.github.io/ja/posts/placeholder-text/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/placeholder-text/</guid>
+      
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>絵文字のサポート</title>
+      <link>https://pwhau.github.io/ja/posts/emoji-support/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/emoji-support/</guid>
+      
+      <description>&lt;p&gt;Hugoの中で絵文字を有効化する方法はいくつかあります。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>このサイトについて</title>
+      <link>https://pwhau.github.io/ja/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/pages/about/</guid>
+      
+      <description>HugoはApache License 2.0で提供される、Go製のオープンソース静的サイトジェネレーターです。 HugoはTOML、YAML、およびJSON形式に対応しており、MarkdownやHTMLもリッチコンテンツの作成にご利用いただけます。さらに、タクソノミー、多言語モード、画像処理、カスタム出力形式、さらにHTML/CSS/JSの最小化やSass SCSSのワークフローもご利用いただけます。
+Hugoは以下に示すようなオープンソースプロジェクトを活用して作成されています:
+https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugoはブログや、コーポレートサイト、ポートフォリオ、オンラインマガジンをはじめとして、単一ページアプリケーションから何千ページもあるサイトまで幅広くご利用いただくことができます。
+Hugoはご自身のコードをご自身で管理しつつも、複雑なランタイムや依存関係、データベースなどを気にしたくない方に最適です。
+Hugoで構築されたウェブサイトは超高速、安全で、AWS、GitHub Pages、Heroku、Netlify、またはご自身の好きなホスティングプロバイダにデプロイすることが可能です。
+詳細や、貢献方法についてはGitHubをご覧ください。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

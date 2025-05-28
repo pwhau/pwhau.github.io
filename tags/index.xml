@@ -5,46 +5,17 @@
     <link>https://pwhau.github.io/tags/</link>
     <description>Recent content in Tags on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 27 May 2025 10:07:17 +0800</lastBuildDate>
-    
-	<atom:link href="https://pwhau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://pwhau.github.io/tags/blog/</link>
-      <pubDate>Tue, 27 May 2025 10:07:17 +0800</pubDate>
+      <title>Emoji</title>
+      <link>https://pwhau.github.io/tags/emoji/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://pwhau.github.io/tags/hugo/</link>
-      <pubDate>Tue, 27 May 2025 10:07:17 +0800</pubDate>
+      <guid>https://pwhau.github.io/tags/emoji/</guid>
       
-      <guid>https://pwhau.github.io/tags/hugo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mac</title>
-      <link>https://pwhau.github.io/tags/mac/</link>
-      <pubDate>Tue, 27 May 2025 10:07:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/tags/mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VScode</title>
-      <link>https://pwhau.github.io/tags/vscode/</link>
-      <pubDate>Tue, 27 May 2025 10:07:17 +0800</pubDate>
-      
-      <guid>https://pwhau.github.io/tags/vscode/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -53,7 +24,9 @@
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/anaconda/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -62,7 +35,20 @@
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/django/</guid>
+      
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://pwhau.github.io/tags/mac/</link>
+      <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/tags/mac/</guid>
+      
+      <description></description>
+      
     </item>
     
     <item>
@@ -71,7 +57,9 @@
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/mysql/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -80,7 +68,9 @@
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/php/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -89,43 +79,64 @@
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/python/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
-      <title>sqlite3</title>
+      <title>Sqlite3</title>
       <link>https://pwhau.github.io/tags/sqlite3/</link>
       <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/sqlite3/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
-      <title>xampp</title>
+      <title>VScode</title>
+      <link>https://pwhau.github.io/tags/vscode/</link>
+      <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/tags/vscode/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Xampp</title>
       <link>https://pwhau.github.io/tags/xampp/</link>
       <pubDate>Tue, 10 Nov 2020 23:51:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/xampp/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
-      <title>diary</title>
+      <title>Diary</title>
       <link>https://pwhau.github.io/tags/diary/</link>
       <pubDate>Thu, 15 Oct 2020 03:13:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/diary/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
-      <title>murmur</title>
+      <title>Murmur</title>
       <link>https://pwhau.github.io/tags/murmur/</link>
       <pubDate>Thu, 15 Oct 2020 03:13:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/murmur/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -134,7 +145,31 @@
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/automator/</guid>
+      
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://pwhau.github.io/tags/blog/</link>
+      <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/tags/blog/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://pwhau.github.io/tags/hugo/</link>
+      <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/tags/hugo/</guid>
+      
+      <description></description>
+      
     </item>
     
     <item>
@@ -143,7 +178,9 @@
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/markdown/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
@@ -152,43 +189,31 @@
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/test/</guid>
+      
       <description></description>
+      
     </item>
     
     <item>
-      <title>VS code</title>
+      <title>VS Code</title>
       <link>https://pwhau.github.io/tags/vs-code/</link>
       <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/vs-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melbourne</title>
-      <link>https://pwhau.github.io/tags/melbourne/</link>
-      <pubDate>Thu, 24 Sep 2020 16:30:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/tags/melbourne/</guid>
       <description></description>
+      
     </item>
     
     <item>
       <title>Photos</title>
       <link>https://pwhau.github.io/tags/photos/</link>
-      <pubDate>Thu, 24 Sep 2020 16:30:17 +0800</pubDate>
+      <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
       
       <guid>https://pwhau.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working Holiday</title>
-      <link>https://pwhau.github.io/tags/working-holiday/</link>
-      <pubDate>Thu, 24 Sep 2020 16:30:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/tags/working-holiday/</guid>
       <description></description>
+      
     </item>
     
   </channel>

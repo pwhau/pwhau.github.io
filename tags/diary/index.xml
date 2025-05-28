@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diary on Wade&#39;s Blog</title>
+    <title>Diary on Wade&#39;s Blog</title>
     <link>https://pwhau.github.io/tags/diary/</link>
-    <description>Recent content in diary on Wade&#39;s Blog</description>
+    <description>Recent content in Diary on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Thu, 15 Oct 2020 03:13:17 +0800</lastBuildDate>
-    
-	<atom:link href="https://pwhau.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 15 Oct 2020 03:13:17 +0800</lastBuildDate><atom:link href="https://pwhau.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>待業日記01</title>
-      <link>https://pwhau.github.io/blog/5_midnightmurmur/</link>
+      <link>https://pwhau.github.io/posts/5_midnightmurmur/5_midnightmurmur/</link>
       <pubDate>Thu, 15 Oct 2020 03:13:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/blog/5_midnightmurmur/</guid>
+      <guid>https://pwhau.github.io/posts/5_midnightmurmur/5_midnightmurmur/</guid>
+      
       <description>半夜醒來，不知道是溫度的影響還是什麼問題？拿了手機點進天氣App。上面顯示的是26度，應該是很好睡覺的溫度，抬頭看了一下冷氣溫度計，顯示房內卻是28度？這是什麼冬涼夏暖的房間嗎？
- Recently I have started to learn data analysis in NTUST.</description>
+Recently I have started to learn data analysis in NTUST. Probably this course is for beginners who aren’t familiar with IT. I havent attended classes in a university for a long time.</description>
+      
     </item>
     
   </channel>
