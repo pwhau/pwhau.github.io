@@ -1,10 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wade&#39;s Blog</title>
+    <title>首頁 on Wade&#39;s Blog</title>
     <link>https://pwhau.github.io/zh-tw/</link>
-    <description>Recent content on Wade&#39;s Blog</description>
+    <description>Recent content in 首頁 on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://pwhau.github.io/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試新功能-翻譯多國語言</title>
+      <link>https://pwhau.github.io/zh-tw/posts/new-function/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/new-function/</guid>
+      
+      <description>本來這個主題有多國語言的下拉式選單，但其實要自己把每篇的文章都要翻譯過一次。它沒有自動翻譯的功能。
+花了一點時間寫了自動翻譯的功能。</description>
+      
+    </item>
+    
+    <item>
+      <title>改版 New Themes</title>
+      <link>https://pwhau.github.io/zh-tw/posts/10_new-themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/10_new-themes/</guid>
+      
+      <description>花了大概六小時幫網站換衣服。
+原本用的Hugo版本太舊了，結果不支援新的hugo主題。
+hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
+最後總算搞好了，外加搬運文章。
+還有好多東西要改的..理想的狀態是可以成功推上去。
+測試自動部署靜態網站功能
+不知道為什麼automator還是不能用
+最後寫了command腳本
+回首五年過去了，過去的文字永遠是那麼不堪入目欸（笑</description>
+      
+    </item>
+    
+    <item>
+      <title>目錄</title>
+      <link>https://pwhau.github.io/zh-tw/posts/table-of-content/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/table-of-content/</guid>
+      
+      <description>目錄 本主題支援在部落格文章中顯示目錄（ToC）。
+參數 您可以透過兩個參數管理目錄：
+全域 toc 參數； 文章的 toc 參數。 文章的 toc 參數優先權高於全域 toc 參數。
+在所有文章中啟用目錄 若要在所有文章（全域）中啟用目錄，請在 hugo.toml 中將參數 toc 設為 true。
+[params] toc = true 若要全域停用目錄，只需忽略 toc 參數或將其設為 false。
+在特定文章中啟用目錄 若要在特定文章中啟用目錄，請在文章設定中將參數 toc 設定為 true。
+--- title: 如何啟用目錄 date: 2023-05-02 toc: true --- 在特定文章中停用目錄 要在特定文章中停用目錄，您需要遵循兩個步驟。
+注意：文章中的 .Params.toc 會覆蓋 .Site.Params.toc。完成這些步驟後，文章中的 toc 參數將為 false。
+在 hugo.toml 中將參數 toc 設為 true。 [params] toc = true 在希望停用目錄的文章的 front matter 中加入 toc = false。 --- title: 如何啟用目錄 date: 2023-05-02 toc: false --- 預設開啟目錄 預設情況下，目錄是關閉的。要預設開啟它，請在 hugo.</description>
+      
+    </item>
+    
+    <item>
+      <title>數學排版 - 在部落格文章中使用數學符號</title>
+      <link>https://pwhau.github.io/zh-tw/posts/math-typesetting/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/math-typesetting/</guid>
+      
+      <description>&lt;p&gt;在 Hugo 專案中，可以透過使用 &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;第三方 JavaScript 函式庫&lt;/a&gt; 來啟用數學符號。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown 文法指南</title>
+      <link>https://pwhau.github.io/zh-tw/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/markdown-syntax/</guid>
+      
+      <description>&lt;p&gt;本文提供了 Hugo 內容檔案中可以使用的 Markdown 語法範例，同時展示了 Hugo 主題中是否對基本 HTML 元素進行了 CSS 裝飾。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>豐富內容</title>
+      <link>https://pwhau.github.io/zh-tw/posts/rich-content/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/rich-content/</guid>
+      
+      <description>&lt;p&gt;Hugo 提供了多個&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;內建短代碼&lt;/a&gt;來支援豐富內容，同時也提供了[隱私配置](&lt;a href=&#34;https://gohugo.io/about/hugo-and-gd/hugo&#34;&gt;https://gohugo.io/about/hugo-and-gd/hugo&lt;/a&gt; 版本和一組簡單短代碼嵌入的靜態和無社交媒體程式碼嵌入的靜態和 Jprgo-and-gd Jpr/) 版本，以實現各種社交媒體程式碼嵌入的靜態和 Jprgo-and-gd Jpr/）和一組簡單和短版的社交媒體程式碼嵌入。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>佔位文字</title>
+      <link>https://pwhau.github.io/zh-tw/posts/placeholder-text/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/placeholder-text/</guid>
+      
+      <description>&lt;p&gt;Lorem 距離胸部越來越近。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji 支持</title>
+      <link>https://pwhau.github.io/zh-tw/posts/emoji-support/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/emoji-support/</guid>
+      
+      <description>&lt;p&gt;在 Hugo 專案中有多種方式可以啟用 Emoji。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>關於</title>
+      <link>https://pwhau.github.io/zh-tw/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/pages/about/</guid>
+      
+      <description>Hugo 是用 Go 語言編寫的開源靜態網站產生器，遵循 Apache Licence 2.0 授權。 Hugo 支援 TOML、YAML 和 JSON 資料檔案類型，以及 Markdown 和 HTML 內容文件，並使用短程式碼來添加豐富的內容。其他顯著功能包括分類法、多語言模式、影像處理、自訂輸出格式、HTML/CSS/JS 壓縮以及對 Sass SCSS 工作流程的支援。
+Hugo 使用了多種開源項目，包括：
+https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo 非常適合部落格、企業網站、創意作品集、線上雜誌、單頁應用程序，甚至是擁有數千頁的網站。
+Hugo 適合那些希望手動編寫自己的網站，而不必擔心設定複雜的執行環境、依賴項和資料庫的人。
+使用 Hugo 建置的網站速度極快、安全性高，並且可以部署在任何地方，包括 AWS、GitHub Pages、Heroku、Netlify 以及任何其他託管提供者。
+在 GitHub 上了解更多並參與貢獻。</description>
+      
+    </item>
+    
   </channel>
 </rss>

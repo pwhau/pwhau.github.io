@@ -6,7 +6,38 @@
     <description>Recent content in 投稿 on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試新功能-翻譯多國語言</title>
+      <link>https://pwhau.github.io/ja/posts/new-function/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/new-function/</guid>
+      
+      <description>もともと、このトピックには複数の言語でドロップダウンメニューがありますが、実際には、各記事を自分で翻訳する必要があります。自動変換機能はありません。
+自動翻訳機能を書くのに少し時間を費やしました。</description>
+      
+    </item>
+    
+    <item>
+      <title>改版 New Themes</title>
+      <link>https://pwhau.github.io/ja/posts/10_new-themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/10_new-themes/</guid>
+      
+      <description>ウェブサイトが衣服を変更するのを助けるのに約6時間かかりました。
+私が元々使用していたヒューゴバージョンは古すぎて、新しいヒューゴのテーマをサポートしていませんでした。
+ヒューゴのテーマはまた、ヒューゴバージョンが拡張されるべきであると述べ、私のオペレーティングシステムは古すぎると言いました。
+最後に、それは行われ、さらに記事の処理が行われました。
+変更すべきことはまだたくさんあります&amp;hellip;〜理想的な状態は、それが正常に押し上げることができるということです。~~
+静的Webサイトの自動展開をテストします
+なぜ自動車を使用できないのかわかりません
+最後にコマンドスクリプトを書きました
+5年を振り返ると、過去の言葉はいつもとても耐えられません（笑い</description>
+      
+    </item>
+    
     <item>
       <title>目次</title>
       <link>https://pwhau.github.io/ja/posts/table-of-content/</link>

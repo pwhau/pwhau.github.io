@@ -6,32 +6,31 @@
     <description>Recent content in Posts on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>大改版 New Themes</title>
-      <link>https://pwhau.github.io/posts/10_new-themes/10_new-themes/</link>
-      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      <title>測試新功能-翻譯多國語言</title>
+      <link>https://pwhau.github.io/posts/new-function/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/posts/10_new-themes/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/posts/new-function/</guid>
       
-      <description>花了大概六小時幫網站換衣服。
-原本用的Hugo版本太舊了，結果不支援新的hugo主題。
-hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
-最後總算搞好了，外加搬運文章。
-還有好多東西要改的..理想的狀態是可以成功推上去。
-測試自動部署靜態網站功能
-應該最終版本可以確定了吧？只剩下小功能要改</description>
+      <description>Originally, this topic has a drop-down menu in multiple languages, but in fact, you have to translate each article yourself.It does not have automatic translation function.
+I spent a little time writing the automatic translation function.</description>
       
     </item>
     
     <item>
-      <title>測試文章</title>
-      <link>https://pwhau.github.io/posts/test/</link>
+      <title>改版 New Themes</title>
+      <link>https://pwhau.github.io/posts/10_new-themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/posts/test/</guid>
+      <guid>https://pwhau.github.io/posts/10_new-themes/</guid>
       
-      <description></description>
+      <description>It took about six hours to help the website change clothes.
+The Hugo version I originally used was too old and did not support the new Hugo theme.
+The hugo theme also said that the hugo version was to be extended, and said that my operating system was too old.
+Finally, it was done, plus the article handling.
+There are still many things to be changed&amp;hellip;~ The ideal state is that it can be successfully pushed up.</description>
       
     </item>
     
