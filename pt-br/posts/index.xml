@@ -6,7 +6,23 @@
     <description>Recent content in Publicações on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novos temas revisados</title>
+      <link>https://pwhau.github.io/pt-br/posts/1_new_themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/pt-br/posts/1_new_themes/</guid>
+      
+      <description>0528
+Demorou cerca de seis horas para ajudar o site a trocar de roupa.
+A versão Hugo que eu usei originalmente era muito antiga e não apoiou o novo tema Hugo.
+O tema Hugo também disse que a versão Hugo deveria ser estendida e disse que meu sistema operacional era velho demais.
+Finalmente, foi feito, além do manuseio do artigo.
+Ainda há muitas coisas a serem alteradas &amp;hellip; ~ O estado ideal é que ele pode ser pressionado com sucesso.</description>
+      
+    </item>
+    
     <item>
       <title>Tabela de Conteúdo</title>
       <link>https://pwhau.github.io/pt-br/posts/table-of-content/</link>

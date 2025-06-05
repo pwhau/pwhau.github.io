@@ -6,7 +6,30 @@
     <description>Recent content in 投稿 on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新しいテーマを改訂しました</title>
+      <link>https://pwhau.github.io/ja/posts/1_new_themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/ja/posts/1_new_themes/</guid>
+      
+      <description>0528
+ウェブサイトが衣服を変更するのを助けるのに約6時間かかりました。
+私が元々使用していたヒューゴバージョンは古すぎて、新しいヒューゴのテーマをサポートしていませんでした。
+ヒューゴのテーマはまた、ヒューゴバージョンが拡張されるべきであると述べ、私のオペレーティングシステムは古すぎると言いました。
+最後に、それは行われ、さらに記事の処理が行われました。
+変更すべきことはまだたくさんあります&amp;hellip;〜理想的な状態は、それが正常に押し上げることができるということです。~~
+静的Webサイトの自動展開をテストします
+なぜ自動車を使用できないのかわかりません
+5年を振り返ると、過去の言葉はいつもとても見苦しいです&amp;hellip;
+0530
+Q：このモジュラーWebサイト構造を分解する方法は？ Q：このサンプルサイトにまったく新しいWebページを追加するにはどうすればよいですか？ （CSS、HTML、JSを含む） Q：新しいWebページをカスタマイズする方法は？ Q：これらのモジュールを管理する方法は？ ~~ Q：多言語翻訳関数（タイトル）？ （処理/パブリックネットワークのため）~~ 0605 自動翻訳（タイトルを含む）機能を更新します
+0605 多言語の記事関数を更新および削除します
+Autotranslate by Google</description>
+      
+    </item>
+    
     <item>
       <title>目次</title>
       <link>https://pwhau.github.io/ja/posts/table-of-content/</link>

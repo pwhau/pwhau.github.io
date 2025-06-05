@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pwhau.github.io/fr-fr/posts/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -13,11 +13,6 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://pwhau.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,6 +31,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://pwhau.github.io/it/posts/"
                 />
@@ -45,8 +45,51 @@
                 href="https://pwhau.github.io/fr-fr/posts/"
                 />
   </url><url>
+    <loc>https://pwhau.github.io/fr-fr/posts/1_new_themes/</loc>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pwhau.github.io/pt-br/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://pwhau.github.io/de-de/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://pwhau.github.io/ru-ru/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pwhau.github.io/ja/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://pwhau.github.io/it/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://pwhau.github.io/fr-fr/posts/1_new_themes/"
+                />
+  </url><url>
     <loc>https://pwhau.github.io/fr-fr/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -56,11 +99,6 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://pwhau.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -76,6 +114,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://pwhau.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"

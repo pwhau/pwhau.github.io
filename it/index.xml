@@ -6,7 +6,23 @@
     <description>Recent content in Home on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuovi temi rivisti</title>
+      <link>https://pwhau.github.io/it/posts/1_new_themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/it/posts/1_new_themes/</guid>
+      
+      <description>0528
+Ci sono volute circa sei ore per aiutare il sito Web a cambiare vestiti.
+La versione Hugo che ho usato originariamente era troppo vecchia e non supportava il nuovo tema Hugo.
+Il tema Hugo ha anche detto che la versione Hugo doveva essere estesa e ha detto che il mio sistema operativo era troppo vecchio.
+Infine, è stato fatto, oltre alla gestione degli articoli.
+Ci sono ancora molte cose da cambiare &amp;hellip; ~ Lo stato ideale è che può essere sollevato con successo.</description>
+      
+    </item>
+    
     <item>
       <title>I Sommari</title>
       <link>https://pwhau.github.io/it/posts/table-of-content/</link>
