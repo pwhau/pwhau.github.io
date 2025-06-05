@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pwhau.github.io/de-de/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -45,46 +45,8 @@
                 href="https://pwhau.github.io/de-de/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/de-de/posts/table-of-content/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/table-of-content/"
-                />
-  </url><url>
     <loc>https://pwhau.github.io/de-de/posts/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -124,6 +86,62 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://pwhau.github.io/de-de/posts/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/de-de/posts/1_new_themes/</loc>
+    <lastmod>2025-05-28T16:55:29+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/posts/1_new_themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://pwhau.github.io/de-de/posts/1_new_themes/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/de-de/posts/table-of-content/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://pwhau.github.io/fr-fr/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pwhau.github.io/pt-br/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://pwhau.github.io/ru-ru/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pwhau.github.io/ja/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://pwhau.github.io/it/posts/table-of-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://pwhau.github.io/de-de/posts/table-of-content/"
                 />
   </url><url>
     <loc>https://pwhau.github.io/de-de/posts/math-typesetting/</loc>
