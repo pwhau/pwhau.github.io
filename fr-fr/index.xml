@@ -6,27 +6,16 @@
     <description>Recent content in Home on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/fr-fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/fr-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>測試新功能-翻譯多國語言</title>
-      <link>https://pwhau.github.io/fr-fr/posts/new-function/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/fr-fr/posts/new-function/</guid>
-      
-      <description>À l&amp;rsquo;origine, ce sujet a un menu déroulant en plusieurs langues, mais en fait, vous devez traduire vous-même chaque article.Il n&amp;rsquo;a pas de fonction de traduction automatique.
-J&amp;rsquo;ai passé un peu de temps à écrire la fonction de traduction automatique.</description>
-      
-    </item>
-    
-    <item>
-      <title>改版 New Themes</title>
-      <link>https://pwhau.github.io/fr-fr/posts/10_new-themes/</link>
+      <title>De nouveaux thèmes révisés</title>
+      <link>https://pwhau.github.io/fr-fr/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/fr-fr/posts/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/fr-fr/posts/1_new_themes/</guid>
       
-      <description>Il a fallu environ six heures pour aider le site Web à changer de vêtements.
+      <description>0528
+Il a fallu environ six heures pour aider le site Web à changer de vêtements.
 La version Hugo que j&amp;rsquo;ai utilisée à l&amp;rsquo;origine était trop ancienne et ne soutenait pas le nouveau thème Hugo.
 Le thème Hugo a également déclaré que la version Hugo devait être prolongée et a déclaré que mon système d&amp;rsquo;exploitation était trop vieux.
 Enfin, cela a été fait, plus la gestion de l&amp;rsquo;article.

@@ -6,27 +6,16 @@
     <description>Recent content in Записи on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/ru-ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/ru-ru/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>測試新功能-翻譯多國語言</title>
-      <link>https://pwhau.github.io/ru-ru/posts/new-function/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/ru-ru/posts/new-function/</guid>
-      
-      <description>Первоначально эта тема имеет раскрывающееся меню на нескольких языках, но на самом деле вы должны перевести каждую статью самостоятельно.У него нет автоматической функции перевода.
-Я потратил немного времени на написание функции автоматического перевода.</description>
-      
-    </item>
-    
-    <item>
-      <title>改版 New Themes</title>
-      <link>https://pwhau.github.io/ru-ru/posts/10_new-themes/</link>
+      <title>Пересмотренные новые темы</title>
+      <link>https://pwhau.github.io/ru-ru/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/ru-ru/posts/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/ru-ru/posts/1_new_themes/</guid>
       
-      <description>Потребовалось около шести часов, чтобы помочь сайту изменить одежду.
+      <description>0528
+Потребовалось около шести часов, чтобы помочь сайту изменить одежду.
 Версия Hugo, которую я первоначально использовал, была слишком старой и не поддерживала новую тему Hugo.
 Тема Hugo также сказала, что версия Hugo должна была быть расширена, и сказала, что моя операционная система была слишком старой.
 Наконец, это было сделано, плюс обработка статьи.

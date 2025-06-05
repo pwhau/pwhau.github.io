@@ -6,27 +6,16 @@
     <description>Recent content in Home on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>測試新功能-翻譯多國語言</title>
-      <link>https://pwhau.github.io/posts/new-function/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/new-function/</guid>
-      
-      <description>Originally, this topic has a drop-down menu in multiple languages, but in fact, you have to translate each article yourself.It does not have automatic translation function.
-I spent a little time writing the automatic translation function.</description>
-      
-    </item>
-    
-    <item>
-      <title>改版 New Themes</title>
-      <link>https://pwhau.github.io/posts/10_new-themes/</link>
+      <title>Revised New Themes</title>
+      <link>https://pwhau.github.io/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/posts/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/posts/1_new_themes/</guid>
       
-      <description>It took about six hours to help the website change clothes.
+      <description>0528
+It took about six hours to help the website change clothes.
 The Hugo version I originally used was too old and did not support the new Hugo theme.
 The hugo theme also said that the hugo version was to be extended, and said that my operating system was too old.
 Finally, it was done, plus the article handling.
@@ -328,13 +317,14 @@ https://github.com/yuin/goldmark https://github.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://pwhau.github.io/test/test/</link>
+      <title>Crochet EN</title>
+      <link>https://pwhau.github.io/navigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/test/test/</guid>
+      <guid>https://pwhau.github.io/navigation/</guid>
       
-      <description>Hello world</description>
+      <description>Hello world
+Crochet EN</description>
       
     </item>
     

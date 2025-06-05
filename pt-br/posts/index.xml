@@ -2,17 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publicações on Wade&#39;s Blog</title>
-    <link>http://localhost:1313/pt-br/posts/</link>
+    <link>https://pwhau.github.io/pt-br/posts/</link>
     <description>Recent content in Publicações on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novos temas revisados</title>
+      <link>https://pwhau.github.io/pt-br/posts/1_new_themes/</link>
+      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
+      
+      <guid>https://pwhau.github.io/pt-br/posts/1_new_themes/</guid>
+      
+      <description>0528
+Demorou cerca de seis horas para ajudar o site a trocar de roupa.
+A versão Hugo que eu usei originalmente era muito antiga e não apoiou o novo tema Hugo.
+O tema Hugo também disse que a versão Hugo deveria ser estendida e disse que meu sistema operacional era velho demais.
+Finalmente, foi feito, além do manuseio do artigo.
+Ainda há muitas coisas a serem alteradas &amp;hellip; ~ O estado ideal é que ele pode ser pressionado com sucesso.</description>
+      
+    </item>
+    
     <item>
       <title>Tabela de Conteúdo</title>
-      <link>http://localhost:1313/pt-br/posts/table-of-content/</link>
+      <link>https://pwhau.github.io/pt-br/posts/table-of-content/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/table-of-content/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/table-of-content/</guid>
       
       <description>Tabela de Conteúdo Este tema suporta a exibição de um tabela de conteúdo (ToC) em postagens de blog.
 Parâmetros Você pode gerenciar o tabela de conteúdo com dois parâmetros:
@@ -23,10 +39,10 @@ Habilitar a Tabela de Conteúdo em todas as postagens Para habilitar o tabela de
     
     <item>
       <title>Notação Matemática - use a notação matemática em postagens de blog.</title>
-      <link>http://localhost:1313/pt-br/posts/math-typesetting/</link>
+      <link>https://pwhau.github.io/pt-br/posts/math-typesetting/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/math-typesetting/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/math-typesetting/</guid>
       
       <description>&lt;p&gt;A notação matemática em um projeto Hugo pode ser habilitada usando
 &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;bibliotecas JavaScript de terceiros&lt;/a&gt;.&lt;/p&gt;</description>
@@ -35,10 +51,10 @@ Habilitar a Tabela de Conteúdo em todas as postagens Para habilitar o tabela de
     
     <item>
       <title>Guia de Sintaxe de Markdown</title>
-      <link>http://localhost:1313/pt-br/posts/markdown-syntax/</link>
+      <link>https://pwhau.github.io/pt-br/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/markdown-syntax/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/markdown-syntax/</guid>
       
       <description>&lt;p&gt;Este artigo fornece um exemplo da sintaxe básica de Markdown que pode ser usada em arquivos de conteúdo do Hugo e também mostra se os elementos básicos de HTML são decorados com CSS em um tema do Hugo.&lt;/p&gt;</description>
       
@@ -46,10 +62,10 @@ Habilitar a Tabela de Conteúdo em todas as postagens Para habilitar o tabela de
     
     <item>
       <title>Conteúdo Rico</title>
-      <link>http://localhost:1313/pt-br/posts/rich-content/</link>
+      <link>https://pwhau.github.io/pt-br/posts/rich-content/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/rich-content/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/rich-content/</guid>
       
       <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Integrados&lt;/a&gt; para conteúdo rico, juntamente com uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e um conjunto de Shortcodes Simples que permitem versões estáticas e sem JavaScript de diversas página embutidas de mídias sociais.&lt;/p&gt;</description>
       
@@ -57,10 +73,10 @@ Habilitar a Tabela de Conteúdo em todas as postagens Para habilitar o tabela de
     
     <item>
       <title>Texto de Substituição</title>
-      <link>http://localhost:1313/pt-br/posts/placeholder-text/</link>
+      <link>https://pwhau.github.io/pt-br/posts/placeholder-text/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/placeholder-text/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -68,10 +84,10 @@ Habilitar a Tabela de Conteúdo em todas as postagens Para habilitar o tabela de
     
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/pt-br/posts/emoji-support/</link>
+      <link>https://pwhau.github.io/pt-br/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/posts/emoji-support/</guid>
+      <guid>https://pwhau.github.io/pt-br/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;Os emojis podem ser habilitados em um projeto Hugo de várias maneiras.&lt;/p&gt;</description>
       

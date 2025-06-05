@@ -6,35 +6,26 @@
     <description>Recent content in 首頁 on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/zh-tw/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>測試新功能-翻譯多國語言</title>
-      <link>https://pwhau.github.io/zh-tw/posts/new-function/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/zh-tw/posts/new-function/</guid>
-      
-      <description>本來這個主題有多國語言的下拉式選單，但其實要自己把每篇的文章都要翻譯過一次。它沒有自動翻譯的功能。
-花了一點時間寫了自動翻譯的功能。</description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>改版 New Themes</title>
-      <link>https://pwhau.github.io/zh-tw/posts/10_new-themes/</link>
+      <link>https://pwhau.github.io/zh-tw/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/zh-tw/posts/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/zh-tw/posts/1_new_themes/</guid>
       
-      <description>花了大概六小時幫網站換衣服。
+      <description>0528
+花了大概六小時幫網站換衣服。
 原本用的Hugo版本太舊了，結果不支援新的hugo主題。
 hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
 最後總算搞好了，外加搬運文章。
 還有好多東西要改的..理想的狀態是可以成功推上去。
 測試自動部署靜態網站功能
 不知道為什麼automator還是不能用
-最後寫了command腳本
-回首五年過去了，過去的文字永遠是那麼不堪入目欸（笑</description>
+回首五年過去了，過去的文字永遠是那麼不堪入目..
+0530
+Q:如何解構這個模組化的網站結構? Q:如何添加一整個新的網頁在這個sampleSite?(包含css, html, js) Q:如何客製化新的網頁? Q:如何管理這些模組? Q:多語言翻譯功能(標題)?(處理中/因公共網路) 0605 更新自動翻譯(含標題)功能
+0605 更新刪除多語系文章功能</description>
       
     </item>
     
@@ -109,6 +100,17 @@ hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太
       <guid>https://pwhau.github.io/zh-tw/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;在 Hugo 專案中有多種方式可以啟用 Emoji。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>鉤織計算器</title>
+      <link>https://pwhau.github.io/zh-tw/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/navigation/</guid>
+      
+      <description>crochet tool</description>
       
     </item>
     

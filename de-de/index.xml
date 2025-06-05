@@ -6,27 +6,16 @@
     <description>Recent content in Home on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/de-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/de-de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>測試新功能-翻譯多國語言</title>
-      <link>https://pwhau.github.io/de-de/posts/new-function/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/de-de/posts/new-function/</guid>
-      
-      <description>Ursprünglich hat dieses Thema ein Dropdown-Menü in mehreren Sprachen, aber tatsächlich müssen Sie jeden Artikel selbst übersetzen.Es hat keine automatische Übersetzungsfunktion.
-Ich habe ein wenig Zeit damit verbracht, die automatische Übersetzungsfunktion zu schreiben.</description>
-      
-    </item>
-    
-    <item>
-      <title>改版 New Themes</title>
-      <link>https://pwhau.github.io/de-de/posts/10_new-themes/</link>
+      <title>Überarbeitete neue Themen</title>
+      <link>https://pwhau.github.io/de-de/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
-      <guid>https://pwhau.github.io/de-de/posts/10_new-themes/</guid>
+      <guid>https://pwhau.github.io/de-de/posts/1_new_themes/</guid>
       
-      <description>Es dauerte ungefähr sechs Stunden, um der Website zu helfen, die Kleidung zu wechseln.
+      <description>0528
+Es dauerte ungefähr sechs Stunden, um der Website zu helfen, die Kleidung zu wechseln.
 Die Hugo -Version, die ich ursprünglich verwendet habe, war zu alt und unterstützte das neue Hugo -Thema nicht.
 Das Hugo -Thema sagte auch, dass die Hugo -Version verlängert werden sollte, und sagte, dass mein Betriebssystem zu alt war.
 Schließlich war es fertig, plus die Artikelle für den Artikel.
