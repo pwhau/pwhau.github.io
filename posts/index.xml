@@ -8,22 +8,6 @@
     <language>en-gb</language>
     <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Revised New Themes</title>
-      <link>https://pwhau.github.io/posts/1_new_themes/</link>
-      <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/1_new_themes/</guid>
-      
-      <description>0528
-It took about six hours to help the website change clothes.
-The Hugo version I originally used was too old and did not support the new Hugo theme.
-The hugo theme also said that the hugo version was to be extended, and said that my operating system was too old.
-Finally, it was done, plus the article handling.
-There are still many things to be changed&amp;hellip;~ The ideal state is that it can be successfully pushed up.</description>
-      
-    </item>
-    
-    <item>
       <title>重開機</title>
       <link>https://pwhau.github.io/posts/9_renew1/9_renew1/</link>
       <pubDate>Tue, 27 May 2025 17:58:02 +1200</pubDate>
