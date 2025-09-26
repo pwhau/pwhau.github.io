@@ -596,6 +596,10 @@
                 href="https://pwhau.github.io/zh-tw/navigation/"
                 />
   </url><url>
+    <loc>https://pwhau.github.io/zh-tw/pages/test/</loc>
+  </url><url>
+    <loc>https://pwhau.github.io/zh-tw/pages/about_hugo/</loc>
+  </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
