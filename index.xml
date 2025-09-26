@@ -308,14 +308,25 @@ https://github.com/yuin/goldmark https://github.</description>
     </item>
     
     <item>
-      <title>Crochet EN</title>
+      <title>Now</title>
+      <link>https://pwhau.github.io/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/now/</guid>
+      
+      <description>Now - 2025-09-26</description>
+      
+    </item>
+    
+    <item>
+      <title>Test page</title>
       <link>https://pwhau.github.io/navigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pwhau.github.io/navigation/</guid>
       
       <description>Hello world
-Crochet EN</description>
+Test page</description>
       
     </item>
     

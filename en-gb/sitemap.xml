@@ -450,16 +450,16 @@
                 href="https://pwhau.github.io/pages/about/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/navigation/</loc>
+    <loc>https://pwhau.github.io/now/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/navigation/"
+                href="https://pwhau.github.io/zh-tw/now/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/navigation/"
+                href="https://pwhau.github.io/now/"
                 />
   </url><url>
     <loc>https://pwhau.github.io/pages/</loc>
@@ -502,6 +502,18 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://pwhau.github.io/pages/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/navigation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/navigation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/navigation/"
                 />
   </url>
 </urlset>
