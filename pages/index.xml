@@ -7,15 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://pwhau.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About Hugo</title>
+      <link>https://pwhau.github.io/pages/about_hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/pages/about_hugo/</guid>
+      
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+      
+    </item>
+    
+    <item>
+      <title>About Me</title>
       <link>https://pwhau.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pwhau.github.io/pages/about/</guid>
       
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <description>Last updated: September 27, 2025 Since no one in this world really pays much attention—everyone’s too busy with their own lives—maybe oversharing isn’t really a problem? So this becomes a little autobiography.
+What I have is mostly luck Personal Resume Go see the world 1993 Born in Taipei Elementary School Accordion Band County Mayor’s Award Junior High Still silly High School Club Leader University Pre-salaryman training Travel Resume 2014 Taiwan scooter island trip Chasing the wind 2017 Melbourne Coffee capital Fashion Week Lived near a prison 2018 Tasmania Farmer Around the island Overnight boat fishing Aurora Australis 2019 Malaysia KL Penang 2019 Cambodia Solo trip Phnom Penh Scam zone Angkor Wat Tomb Raider 2020 New Taipei, Taiwan Dad, I’m back 2021 Psychological counseling Insight 2022 Rookie software engineer Salaryman days 2023 New Zealand Five-star hotel life Queenstown Stunning nature Snowboarding Taupō Lakeside town Wellington Windy city 2024 Canada Since I’m already here Vancouver Big Daan Forest Park Calgary Revolutionary vibes among the homeless Banff Queenstown XXL Northern Lights 2025 New Zealand Tell Wade Why?</description>
       
     </item>
     

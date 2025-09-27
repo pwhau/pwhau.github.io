@@ -599,6 +599,16 @@
     <loc>https://pwhau.github.io/zh-tw/pages/test/</loc>
   </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/about_hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/pages/about_hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/pages/about_hugo/"
+                />
   </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/about/</loc>
     <xhtml:link

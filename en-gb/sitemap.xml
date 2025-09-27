@@ -408,6 +408,18 @@
     <loc>https://pwhau.github.io/posts/00_how-to-use-markdown/00_how-to-use-markdown/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
+    <loc>https://pwhau.github.io/pages/about_hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/pages/about_hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/pages/about_hugo/"
+                />
+  </url><url>
     <loc>https://pwhau.github.io/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
