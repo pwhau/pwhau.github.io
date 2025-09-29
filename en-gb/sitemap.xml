@@ -515,17 +515,5 @@
                 hreflang="en-gb"
                 href="https://pwhau.github.io/pages/"
                 />
-  </url><url>
-    <loc>https://pwhau.github.io/navigation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/navigation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://pwhau.github.io/navigation/"
-                />
   </url>
 </urlset>
