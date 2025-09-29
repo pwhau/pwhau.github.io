@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="https://pwhau.github.io/fr-fr/"
                 />
@@ -28,11 +33,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://pwhau.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -496,6 +496,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt-br"
                 href="https://pwhau.github.io/pt-br/pages/about/"
                 />
@@ -513,11 +518,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://pwhau.github.io/ja/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -580,6 +580,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="https://pwhau.github.io/fr-fr/pages/"
                 />
@@ -597,11 +602,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://pwhau.github.io/ru-ru/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/"
                 />
     <xhtml:link
                 rel="alternate"

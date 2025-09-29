@@ -6,7 +6,35 @@
     <description>Recent content in Home on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 May 2025 16:55:29 +1200</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://pwhau.github.io/pages/about/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/pages/about/</guid>
+      
+      <description>Last updated: September 29, 2025 – refined for privacy
+Since no one in this world will truly care, and everyone is busy managing themselves, sharing too much shouldn’t really be a problem. So, let this be a small personal autobiography.
+Everything I have is pure luck Personal Background Born in Taiwan Millennial Participated in school bands and held club positions during education Accordion Band Good Times &amp;ldquo;The world is a book, and those who do not travel read only a page.</description>
+      
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>https://pwhau.github.io/now/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/now/</guid>
+      
+      <description>Last updated: September 29, 2025 – adjusted for self-disclosure and privacy concerns
+🌱 Season: early spring
+📍 Location: a quiet riverside town on the North Island, rarely visited even by locals.
+Recently moved into a new home by the river, surrounded by beautiful scenery. Sunlight filters through the trees, letting me feel the changing seasons and warmth.
+Current Status Started recording my solo podcast, sharing travel stories and life observations Continuing to write, making the website a place for documentation and exchange Reflecting on the next stage of work and life Started my podcast The initial concept was to talk about my travel stories and to have fun laughing out loud.</description>
+      
+    </item>
+    
     <item>
       <title>Revised New Themes</title>
       <link>https://pwhau.github.io/posts/1_new_themes/</link>
@@ -95,6 +123,19 @@ Enable table of content on all posts To enable ToC on all posts (globally) set p
       <guid>https://pwhau.github.io/posts/0.placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://pwhau.github.io/pages/about_hugo/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/pages/about_hugo/</guid>
+      
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
       
     </item>
     
@@ -291,47 +332,6 @@ I&amp;rsquo;m an inline-style link with title
 I&amp;rsquo;m a reference-style link
 I&amp;rsquo;m a relative reference to a repository file
 You can use numbers for reference-style link definitions</description>
-      
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://pwhau.github.io/pages/about_hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/pages/about_hugo/</guid>
-      
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-      
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://pwhau.github.io/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/pages/about/</guid>
-      
-      <description>Last updated: September 29, 2025 – refined for privacy
-Since no one in this world will truly care, and everyone is busy managing themselves, sharing too much shouldn’t really be a problem. So, let this be a small personal autobiography.
-Everything I have is pure luck Personal Background Born in Taiwan Millennial Participated in school bands and held club positions during education Accordion Band Good Times &amp;ldquo;The world is a book, and those who do not travel read only a page.</description>
-      
-    </item>
-    
-    <item>
-      <title>Now</title>
-      <link>https://pwhau.github.io/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/now/</guid>
-      
-      <description>Last updated: September 29, 2025 – adjusted for self-disclosure and privacy concerns
-🌱 Season: early spring
-📍 Location: a quiet riverside town on the North Island, rarely visited even by locals.
-Recently moved into a new home by the river, surrounded by beautiful scenery. Sunlight filters through the trees, letting me feel the changing seasons and warmth.
-Current Status Started recording my solo podcast, sharing travel stories and life observations Continuing to write, making the website a place for documentation and exchange Reflecting on the next stage of work and life Started my podcast The initial concept was to talk about my travel stories and to have fun laughing out loud.</description>
       
     </item>
     
