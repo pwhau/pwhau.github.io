@@ -179,36 +179,6 @@ Als sie mich holten,最後當他們來抓我時， gab es keinen mehr, der prote
     </item>
     
     <item>
-      <title>目錄</title>
-      <link>https://pwhau.github.io/zh-tw/posts/table-of-content/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/zh-tw/posts/table-of-content/</guid>
-      
-      <description>目錄 本主題支援在部落格文章中顯示目錄（ToC）。
-參數 您可以透過兩個參數管理目錄：
-全域 toc 參數； 文章的 toc 參數。 文章的 toc 參數優先權高於全域 toc 參數。
-在所有文章中啟用目錄 若要在所有文章（全域）中啟用目錄，請在 hugo.toml 中將參數 toc 設為 true。
-[params] toc = true 若要全域停用目錄，只需忽略 toc 參數或將其設為 false。
-在特定文章中啟用目錄 若要在特定文章中啟用目錄，請在文章設定中將參數 toc 設定為 true。
---- title: 如何啟用目錄 date: 2023-05-02 toc: true --- 在特定文章中停用目錄 要在特定文章中停用目錄，您需要遵循兩個步驟。
-注意：文章中的 .Params.toc 會覆蓋 .Site.Params.toc。完成這些步驟後，文章中的 toc 參數將為 false。
-在 hugo.toml 中將參數 toc 設為 true。 [params] toc = true 在希望停用目錄的文章的 front matter 中加入 toc = false。 --- title: 如何啟用目錄 date: 2023-05-02 toc: false --- 預設開啟目錄 預設情況下，目錄是關閉的。要預設開啟它，請在 hugo.</description>
-      
-    </item>
-    
-    <item>
-      <title>數學排版 - 在部落格文章中使用數學符號</title>
-      <link>https://pwhau.github.io/zh-tw/posts/math-typesetting/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/zh-tw/posts/math-typesetting/</guid>
-      
-      <description>&lt;p&gt;在 Hugo 專案中，可以透過使用 &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;第三方 JavaScript 函式庫&lt;/a&gt; 來啟用數學符號。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Markdown 文法指南</title>
       <link>https://pwhau.github.io/zh-tw/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
@@ -216,28 +186,6 @@ Als sie mich holten,最後當他們來抓我時， gab es keinen mehr, der prote
       <guid>https://pwhau.github.io/zh-tw/posts/markdown-syntax/</guid>
       
       <description>&lt;p&gt;本文提供了 Hugo 內容檔案中可以使用的 Markdown 語法範例，同時展示了 Hugo 主題中是否對基本 HTML 元素進行了 CSS 裝飾。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>豐富內容</title>
-      <link>https://pwhau.github.io/zh-tw/posts/rich-content/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/zh-tw/posts/rich-content/</guid>
-      
-      <description>&lt;p&gt;Hugo 提供了多個&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;內建短代碼&lt;/a&gt;來支援豐富內容，同時也提供了[隱私配置](&lt;a href=&#34;https://gohugo.io/about/hugo-and-gd/hugo&#34;&gt;https://gohugo.io/about/hugo-and-gd/hugo&lt;/a&gt; 版本和一組簡單短代碼嵌入的靜態和無社交媒體程式碼嵌入的靜態和 Jprgo-and-gd Jpr/) 版本，以實現各種社交媒體程式碼嵌入的靜態和 Jprgo-and-gd Jpr/）和一組簡單和短版的社交媒體程式碼嵌入。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>佔位文字</title>
-      <link>https://pwhau.github.io/zh-tw/posts/placeholder-text/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/zh-tw/posts/placeholder-text/</guid>
-      
-      <description>&lt;p&gt;Lorem 距離胸部越來越近。&lt;/p&gt;</description>
       
     </item>
     
@@ -258,13 +206,168 @@ Hugo 適合那些希望手動編寫自己的網站，而不必擔心設定複雜
     </item>
     
     <item>
-      <title>Emoji 支持</title>
-      <link>https://pwhau.github.io/zh-tw/posts/emoji-support/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <title>學習筆記03</title>
+      <link>https://pwhau.github.io/zh-tw/posts/8_murmur04/8_murmur04/</link>
+      <pubDate>Thu, 17 Dec 2020 10:07:17 +0800</pubDate>
       
-      <guid>https://pwhau.github.io/zh-tw/posts/emoji-support/</guid>
+      <guid>https://pwhau.github.io/zh-tw/posts/8_murmur04/8_murmur04/</guid>
       
-      <description>&lt;p&gt;在 Hugo 專案中有多種方式可以啟用 Emoji。&lt;/p&gt;</description>
+      <description>安安 過了一個月沒更新，開發環境完全變了。 放棄了xampp因為連接MySQl有問題， 除非下載開源的MySQL。
+Anyway 首先恭喜自己結訓了！ 台科大的雲世代數據分析。 由於後來碰到的東西太多，這裡的文章完全來不及更新。
+現在的路線是Python為主，原本的PHP想用Python的Django來取代。 因為PHP的串接資料庫語法實在是太絢爛又華麗了。(不想認真學就說)
+學習目標是透過Django架站 — Nginx 反向代理 — AWS EC2
+但是呢？現實總是不如人願。
+實際上應用了外接硬碟裝虛擬機 VirturalBox (Ubuntu 18.04) - Django
+本地 - Python虛擬環境 - Django - 部署在 Heroku 上 (這中間還有不同資料庫差異)
+python內建Sqlite3，Heroku則是Postgres。中間需要轉換一下
+學習來源 Django MDN web
+還買了一本18年的書來看，但是現在已經Python3了。
+特別感謝這位大大的學習網誌 kevinya (不得不抱怨一下英文到底是要多強勢?)
+I have to say, when you learning web development but you need to understand everything written in English, It sucks. like double challenge. Kidding me?
+Everything just like lego, so you could build it by yourself, or on a giant(if you understant how tall the giant is).</description>
+      
+    </item>
+    
+    <item>
+      <title>學習筆記02</title>
+      <link>https://pwhau.github.io/zh-tw/posts/7_murmur03/7_murmur03/</link>
+      <pubDate>Tue, 10 Nov 2020 23:51:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/7_murmur03/7_murmur03/</guid>
+      
+      <description>今天是想把蒐集到的資料，映射到資料表。
+但是想當然事情不會發展得這麼順利。
+import pyMySQL 之後
+不知道為什麼執行後
+無法讀取xampp的MySQL
+顯示 2013, &amp;#39;Lost connection to MySQL server during query&amp;#39; 感覺的問題在於timeout
+但是我設置了2000卻也沒辦法成功，是因為原生xampp的mySQL太肥大嗎？
+附註參考來源
+show variables like &amp;#39;%timeout%&amp;#39;; --顯示有關timeout的變數 SET GLOBAL net_read_timeout=10; --設定變數時間 SET GLOBAL connect_timeout=10; --設定變數時間 --如果還是錯誤是情況需要更改 max_allowed_packet 也可以用python這樣改寫(不用更改MySQL變數)
+import mysql.connector cnx = mysql.connector.connect(user=&amp;#39;user_name&amp;#39;, password=&amp;#39;password&amp;#39;, host=&amp;#39;localhost&amp;#39;, database=&amp;#39;database_name&amp;#39;, connect_timeout=500) cnx.close() 但是我都失敗謝謝 最後只好參考書籍做法了
+但是書籍教學的是原生套件中的輕量型資料庫sqlite
+可以不要這樣嗎？
+對了，另外一個參考資料
+Using Python environments in VS Code
+或是按下command + shift + p
+可以更改要執行的python來源
+適用於在有很多隻python的森林中的我
+原生一隻2.7，另外抓一隻python3
+原生虛擬出一個python3的myEnv
+原生anaconda3
+原生anaconda3虛擬出condaEnv
+我想都賣去華西街，謝謝
+回不去單純只需要Excel資料表改改函數和公式的日子了嗎？ 今天的新聞是Mac要改用ARM架構。</description>
+      
+    </item>
+    
+    <item>
+      <title>學習筆記01</title>
+      <link>https://pwhau.github.io/zh-tw/posts/6_murmur02/6_murmur02/</link>
+      <pubDate>Mon, 09 Nov 2020 00:01:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/6_murmur02/6_murmur02/</guid>
+      
+      <description>首先我的作業系統是MAC，而課堂上沒有詳細介紹如何安裝xmapp，但是我找到了一個非常好的教學。
+Install XAMPP Mac OS X 這裡備註幾點 1. 教學五分鐘的時候 如果卡關在終端機裡面輸入 cd /.. 2. 修改config.inc.php 裡面的 $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;auth_type&amp;#39;] = &amp;#39;config&amp;#39;; $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;user&amp;#39;] = &amp;#39;root&amp;#39;; $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;password&amp;#39;] = &amp;#39;&amp;#39;; $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;auth_type&amp;#39;] = &amp;#39;cookie&amp;#39;; $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;user&amp;#39;] = &amp;#39;&amp;#39;; $cfg[&amp;#39;Servers&amp;#39;][$i][&amp;#39;password&amp;#39;] = &amp;#39;&amp;#39;; 3. xmapp資料庫裡的使用者 Host name = ％ 有登入疑慮,建議創好Admin之後刪除 4. localhost/phpmyadmin 有時候會無法登入 可能原因 瀏覽器快取壞壞 //可以下載MySQL Workbench以訪問資料庫 本地端埠點壞壞 //重開本地埠點連線 HTTP 雖然是LAMP的圖片，但是原理是差不多的 from wikipedia
+HTTP請求 透過 Apache HTTP/WEB Server 回覆給請求者 CGI的工作方式，從Web伺服器的角度看，是在特定的位置。定義了可以執行CGI程式。當收到一個匹配URL的請求，相應的程式就會被呼叫，並將客戶端傳送的資料作為輸入。程式的輸出會由Web伺服器收集，並加上合適的檔頭，再傳送回客戶端。
+用PHP 撰寫 CGI程式 配合 MySQL 總之xampp就是一個捆包幫大家準備好了所有的東西 資料視覺化 因為要透過網站視覺化資料庫，需要了解資料庫SQL、PHP。
+這邊補充一個PHP鐵人賽文章
+我覺得講解得非常好，但是關於PHP又有套件需要使用——composer。</description>
+      
+    </item>
+    
+    <item>
+      <title>待業日記01</title>
+      <link>https://pwhau.github.io/zh-tw/posts/5_midnightmurmur/5_midnightmurmur/</link>
+      <pubDate>Thu, 15 Oct 2020 03:13:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/5_midnightmurmur/5_midnightmurmur/</guid>
+      
+      <description>半夜醒來，不知道是溫度的影響還是什麼問題？拿了手機點進天氣App。上面顯示的是26度，應該是很好睡覺的溫度，抬頭看了一下冷氣溫度計，顯示房內卻是28度？這是什麼冬涼夏暖的房間嗎？
+Recently I have started to learn data analysis in NTUST. Probably this course is for beginners who aren’t familiar with IT. I havent attended classes in a university for a long time.</description>
+      
+    </item>
+    
+    <item>
+      <title>網站設計紀錄</title>
+      <link>https://pwhau.github.io/zh-tw/posts/4_web-design-log/4_web-design-log/</link>
+      <pubDate>Tue, 29 Sep 2020 23:23:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/4_web-design-log/4_web-design-log/</guid>
+      
+      <description>印象中可以把重複的程序寫成exe讓電腦執行
+但是Mac好像不能產生exe?內建的python應該可以吧？
+意外發現Mac的Automator是按鍵精靈?Autohotkey?巨集? 然後AppleScript又是什麼？它可以寫巨集。那跟Swift一樣嗎？ 照著圖片設定就可以一鍵搬運發文前的所有內容 再用GitHub Desktop就可以上傳了～ 想用函數自動抓發文時間 拿掉Social link icon，但是發現Logo歪掉，但是改好了。 (透過mr-auto)
+響應式視窗，設計了兩個。 一個是視窗超過(desktop)992px，顯示About me
+一個是視窗小於(mobile)575px，顯示Tag
+(讓觀眾比較好選擇想看的文章標籤?)
+Added a gallery layout in navigation bar. (我是用Contact去試一個新的layout)
+1.在config.toml裡面 新增 [[menu.main]] name = &amp;#34;Gallery&amp;#34; URL = &amp;#34;gallery&amp;#34; weight = 4 2.在layouts資料夾裡面 新增gallery資料夾 新增list.html {{ define &amp;#34;main&amp;#34; }} (html最開頭) (程式碼) {{ end }} (html最結尾) 後來發現還要 3.在content資料夾裡面 新增gallery資料夾 新增 _index.md 自訂裡面的md文件 (回到layouts/gallery/list.html裡面，就可以取_index.md相關的值) 想要在navigation bar有下拉式選單 還要研究一下navigation bar 的button
+或是hover之類的語法
+連結repo的網頁 </description>
+      
+    </item>
+    
+    <item>
+      <title>第一屆吉卜力迷因大賽</title>
+      <link>https://pwhau.github.io/zh-tw/posts/2_memes/2_memes/</link>
+      <pubDate>Wed, 23 Sep 2020 02:41:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/2_memes/2_memes/</guid>
+      
+      <description>因為開放下載而突然流行的吉卜力迷因 點此進入吉卜力工作室官方網站 常識の範囲でご自由にお使いください。
+請在常識範圍內自由的使用
+卻被惡搞成很多迷因圖，竟然還有第一屆推特吉卜力大喜利大賽。
+我也做了幾張迷因圖
+以後這邊可以多一個IT迷因區
+成為迷因創作者？</description>
+      
+    </item>
+    
+    <item>
+      <title>發文準備</title>
+      <link>https://pwhau.github.io/zh-tw/posts/1_hello/1_hello/</link>
+      <pubDate>Tue, 22 Sep 2020 04:07:17 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/1_hello/1_hello/</guid>
+      
+      <description>我的第二篇文章
+要練習一下怎麼使用Markdown語法
+還有發文流程步驟順序。
+不知道為什麼我的Github desktop有問題不讓我push上去。
+以為是伺服器問題，等了一天之後，還是沒辦法解決。
+剛剛才發現要手動去修改檔案的衝突。
+分享這一首神曲
+偶然間被演算法推薦到的一首台語歌
+這首台語歌真的超好聽！！
+竟然發現百靈果也留言了！！</description>
+      
+    </item>
+    
+    <item>
+      <title>阿龜測試 阿龜測試 1 2 3 1 2 3 </title>
+      <link>https://pwhau.github.io/zh-tw/posts/0_my-first-post/0_my-first-post/</link>
+      <pubDate>Tue, 22 Sep 2020 02:54:47 +0800</pubDate>
+      
+      <guid>https://pwhau.github.io/zh-tw/posts/0_my-first-post/0_my-first-post/</guid>
+      
+      <description>Hello
+我是阿龜
+標題1 標題2 標題6 我是阿龜，今天要開始經營個人部落格。
+有序序列1
+有序序列2
+有序序列3
+內縮無序序列 有序序列4
+無序序列
+內縮無序序列 引用：站在巨人的肩膀上
+呈現的超連結文字
+跳到其他文章-How to use Markdown
+hello 單行程式碼 跳脫Markdown
+print(hello world) [呈現的超連結文字](/blog/post-0) [跳到其他文章-How to use Markdown](/blog/post-1) ![圖片說明](/images/gallery/1.jpg) 一級標題 gsdfjsidjfsdnfkjgdflgjdlsfgsdsdfsd
+額外使用typora這工具
+再考慮看看
+/Users/powei/Desktop/exampleSite/themes/liva-hugo/assets/scss/templates/_main.scss Markdown渲染樣式路徑 (Markdown&amp;#39;s font-size,etc) </description>
       
     </item>
     
