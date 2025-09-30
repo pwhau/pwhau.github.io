@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-gb"><head><meta charset="utf-8">
+<html lang="zh-tw"><head><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -10,15 +10,17 @@
 <meta name="application-name" content="VS Code | Wade&#39;s Blog" />
 <meta property="og:site_name" content="WADE&#39;S BLOG" />
 
-<meta name="description" content="Minimal Hugo blog theme with light and dark mode support">
-<meta itemprop="description" content="Minimal Hugo blog theme with light and dark mode support" />
-<meta property="og:description" content="Minimal Hugo blog theme with light and dark mode support" />
-<meta name="twitter:description" content="Minimal Hugo blog theme with light and dark mode support" />
+<meta name="description" content="支援亮色和暗色模式，語言切換功能(若內容支援)">
+<meta itemprop="description" content="支援亮色和暗色模式，語言切換功能(若內容支援)" />
+<meta property="og:description" content="支援亮色和暗色模式，語言切換功能(若內容支援)" />
+<meta name="twitter:description" content="支援亮色和暗色模式，語言切換功能(若內容支援)" />
 
-<meta property="og:locale" content="en-gb" />
-<meta name="language" content="en-gb" />
+<meta property="og:locale" content="zh-tw" />
+<meta name="language" content="zh-tw" />
 
-  <link rel="alternate" hreflang="en-gb" href="https://pwhau.github.io/tags/vs-code/" title="English" />
+  <link rel="alternate" hreflang="zh-tw" href="https://pwhau.github.io/tags/vs-code/" title="Mandarin" />
+
+  <link rel="alternate" hreflang="en-gb" href="https://pwhau.github.io/en-gb/tags/vs-code/" title="English" />
 
 
 
@@ -31,8 +33,8 @@
     <meta property="og:url" content="https://pwhau.github.io/tags/vs-code/">
   <meta property="og:site_name" content="Wade&#39;s Blog">
   <meta property="og:title" content="VS Code">
-  <meta property="og:description" content="Minimal Hugo blog theme with light and dark mode support">
-  <meta property="og:locale" content="en_gb">
+  <meta property="og:description" content="支援亮色和暗色模式，語言切換功能(若內容支援)">
+  <meta property="og:locale" content="zh_tw">
   <meta property="og:type" content="website">
 
 
@@ -40,7 +42,7 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="VS Code">
-  <meta name="twitter:description" content="Minimal Hugo blog theme with light and dark mode support">
+  <meta name="twitter:description" content="支援亮色和暗色模式，語言切換功能(若內容支援)">
 
 
     
@@ -87,7 +89,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
 stroke-linejoin="round" class="feather feather-home">
-<title>Home</title>
+<title></title>
 <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
 <polyline points="9 22 9 12 15 12 15 22"></polyline>
 </svg>
@@ -105,35 +107,35 @@ stroke-linejoin="round" class="feather feather-home">
                 
                 <li>
                     <a class="menu-link " href="/">
-                        Home
+                        首頁
                     </a>
                     
                 </li>
                 
                 <li>
                     <a class="menu-link " href="/posts/">
-                        Posts
+                        文章
                     </a>
                     
                 </li>
                 
                 <li>
                     <a class="menu-link " href="/pages/about/">
-                        About
+                        關於
                     </a>
                     
                 </li>
                 
                 <li>
                     <a class="menu-link " href="/now/">
-                        Now
+                        近況更新
                     </a>
                     
                 </li>
                 
                 <li>
                     <a class="menu-link " href="/pages/">
-                        Pages
+                        目錄列
                     </a>
                     
                 </li>
@@ -142,6 +144,42 @@ stroke-linejoin="round" class="feather feather-home">
                     <span>|</span>
                 </li>
                 
+                
+                    <li>
+                        <select aria-label="Select Language" class="lang-list" id="select-language" onchange="location = this.value;">
+                            
+                            
+                            
+                                
+                                
+                                    
+                                
+                                    
+                                        
+                                        
+                                            <option id="zh-tw" value="https://pwhau.github.io/tags/vs-code/" selected>ZH-TW
+                                            </option>
+                                        
+                                    
+                                
+                            
+                                
+                                
+                                    
+                                        
+                                        
+                                            <option id="en-gb" value="https://pwhau.github.io/en-gb/tags/vs-code/">EN-GB</option>
+                                        
+                                    
+                                
+                                    
+                                
+                            
+                        </select>                
+                    </li>
+                    <li class="menu-separator">
+                        <span>|</span>
+                    </li>
                 
             </ul>
             <a id="mode" href="#">
@@ -175,7 +213,7 @@ stroke-linejoin="round" class="feather feather-home">
     
     
     <time class="post-item-meta" datetime="2020-09-29T23:23:17&#43;0800">
-        29 Sep 2020
+        2020年09月29日
         
     </time>
 </article>
@@ -192,7 +230,7 @@ stroke-linejoin="round" class="feather feather-home">
     
     
     <time class="post-item-meta" datetime="2020-09-22T04:07:17&#43;0800">
-        22 Sep 2020
+        2020年09月22日
         
     </time>
 </article>
@@ -209,32 +247,7 @@ stroke-linejoin="round" class="feather feather-home">
     
     
     <time class="post-item-meta" datetime="2020-09-22T02:54:47&#43;0800">
-        22 Sep 2020
-        
-    </time>
-</article>
-
-
-         
-
-        
-        
-        
-
-        
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/00_how-to-use-markdown/00_how-to-use-markdown/">How To Use Markdown</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2019-10-29T10:07:47&#43;0600">
-        29 Oct 2019
+        2020年09月22日
         
     </time>
 </article>
@@ -293,9 +306,9 @@ stroke-linejoin="round" class="feather feather-home">
 </div>
     <small class="footer_copyright">
         © 2025 Wade.
-        Powered by <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+        
     </small>
-</footer><a href="#" title="Go to top" id="totop">
+</footer><a href="#" title="" id="totop">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
     <path d="M283 704.739 234.261 656 480 410.261 725.739 656 677 704.739l-197-197-197 197Z"/>
 </svg>

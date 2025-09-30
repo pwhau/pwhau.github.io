@@ -1,152 +1,207 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Wade&#39;s Blog</title>
+    <title>首頁 on Wade&#39;s Blog</title>
     <link>https://pwhau.github.io/</link>
-    <description>Recent content in Home on Wade&#39;s Blog</description>
+    <description>Recent content in 首頁 on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://pwhau.github.io/pages/about/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <title>關於有趣的靈魂</title>
+      <link>https://pwhau.github.io/pages/about_souls/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/pages/about/</guid>
+      <guid>https://pwhau.github.io/pages/about_souls/</guid>
       
-      <description>Last updated: September 29, 2025 – refined for privacy
-Since no one in this world will truly care, and everyone is busy managing themselves, sharing too much shouldn’t really be a problem. So, let this be a small personal autobiography.
-Everything I have is pure luck Personal Background Born in Taiwan Millennial Participated in school bands and held club positions during education Accordion Band Good Times &amp;ldquo;The world is a book, and those who do not travel read only a page.</description>
+      <description>更新時間:2025-09-30
+單純我想要讓人也看見的靈魂，手工挑選連結，我就是演算法姆哈哈哈
+想要比賽看看世界上哪種類靈魂最多，但不用選應該是商業的靈魂吧？
+有趣的 靈魂 形式 備註 Wade 個人部落格 怎麼會說自己有趣？ 采翎 電子報 幽默風趣的文筆 MiHaShi IG作品集 被收集進她人生中的靈魂們 科技的 古古 個人部落格 後端筆記分享，這個架站源自於她的課程 編程隨想 部落格 科技超級乾貨，內容巨廣泛請斟酌瀏覽 才華的 Derek Sivers 個人部落格 靈魂火星塞，有趣的音樂人，作家，有深刻且有意義的內容 Wiwi 官大為 個人部落格 除了才華也很有趣，感謝Podcast教學 隨意做手作 IG作品集 超可愛鉤織，友情推薦 異國的 紐西蘭的小事紀錄 個人部落格 分享移居紐西蘭的各種小事，包含簽證申請等，極具參考價值 </description>
       
     </item>
     
     <item>
-      <title>Now</title>
+      <title>重回Blog懷抱，個人日記與雜記</title>
+      <link>https://pwhau.github.io/posts/10backtoblog/</link>
+      <pubDate>Tue, 30 Sep 2025 10:23:35 +1300</pubDate>
+      
+      <guid>https://pwhau.github.io/posts/10backtoblog/</guid>
+      
+      <description>忘記拿起筆的感覺 好久沒有拿起筆來寫部落格了。
+從無名小站(?)、到痞客邦、迷你窩養寵物。
+額外還有Medium, Wordpress, Blogger.(族繁不及備載)
+印象中最喜歡的是Tumblr，我喜歡它那種簡潔與幹練的設計。
+部落格的歷史 漸漸的不知道為什麼，我發現連新聞也是，我觀察到的是，他們會讓你看個一兩段就跳出彈窗式廣告，請訂閱！(Medium、Tumblr與一些新聞媒體尤其明顯)
+我在想如果這個策略成功可以對應到現實生活的話，百貨公司櫥窗外面的展示也只能讓你看一兩秒吧，然後拉起百葉窗，只限館內參觀或加入百貨會員？
+為什麼要做這種減少曝光率的事？ 回到媒體身上，我可以猜的答案可能是因為他有自己的看法，他過濾且篩選了其他資料。漏斗下的資訊是萃取的精華。
+我同意保護它是好，尤其文字是如此容易被複製與貼上。
+我只是覺得有點矛盾？
+創作者都很想作品『被看見』 從『被看見』出發，我也在想我自己是不是想藉由作品來獲得認同感？
+一種別人都會稱讚你，即便是很普通也會說，至少你很努力？
+還是我對於我的作品很付出，我很努力我驕傲，我也想讓大家知道？
+還是我想要讓大家看見我？ 現在發了金唱片那一集Podcast之後就覺得這一切都算了。
+專注於我的內容及敘事方式比較實際。
+Podcast可能算練習輸出的部分。
+我對於自己的初試啼聲，只希望還可以更好更好。
+成長型思維？ 猛烈的自我介紹 最近我在拓展我的網路主體。也就是我的個人部落格。
+在個人部落格的部分，覺得看到其他人的自我介紹真有趣，想知道這個人是不是有趣的靈魂？很容易從文筆內容或是自我介紹看到。
+當然也很多商業的靈魂，專案的靈魂跟行銷的靈魂。看到有職業代筆，寫作寫書是最近覺得有趣的商業自介。
+自己的部落格也免不了的要自我介紹，一開始的洋洋灑灑列了一堆自我揭露，但後來猶豫網路的資訊安全，整個非常的糾結。
+心理學上我知道真的不會有人理你&amp;hellip;大家都在做自己的事情，但是2號角色腦袋就是感覺如果太多自我揭露給別人知道怎麼辦？為什麼呢？怕資訊被利用吧？
+我跟朋友討論，他說：那先擔心 Linkedin 上面的資訊吧？
+我還是很糾結 M的內耗人 乾 我也問了最近的老鼠會會長的想法。
+他多年來也會覺得奇怪，但隨著時間過去，他活得越透明，畢竟離開世界後這會是他剩下的一切。
+想到 Homo Bulla - 指人像氣泡一樣。在以前的藝術畫作中會出現，比喻稍縱即逝。
+Homo Bulla 跟佛教所說 如夢幻泡影 是否有異曲同工之妙？
+順便推薦一下如露，被插花的藝術所震懾。
+以後再寫一篇關於買花，似乎談到買花。可能大部分人覺得是單純的浪費，但又在婚喪喜慶必定出現。
+如夢幻泡影 如露亦如電 感覺IG變了 身為IG綁定用戶，我一直覺得IG才是我網路主體？因為照片實在是我的愛。
+以此發展的社群，我很喜歡。主要是看看照片，看看簡述或短文/廢文。
+但是現在已經快變成影片區了..? 我大概的問我朋友，都沒有人會看IG上面的類部落格文章
+我自己的習慣也從上傳照片到一次性拋出10幾張照片？月更。
+希望不會變成Flickr 關於平台 談平台，撇除自己以前想獨立開發Apps但最終沒有繼續。
+想要有自己的網站，自己的作品，自己的東西很正常吧？
+要不是自己寫不出來為什麼要聽別人的？
+以前的我想架自己的網站，用python的Django。
+可以展示自己的作品集，畢竟我想展示的可能是攝影照片，或像Codepen一樣有不一樣的網頁，以上就不太適合只有文字的平台。
+總之成功架在本地之後，在在在最後去找工作的時候，面試的人只是回答了一聲哦。
+這也不是什麼了不起的東西吧？ 或是就這種小東西？
+你拼命努力的想展示自己什麼呢？這麼想被看見嗎？可能不是這塊料吧？
+謝謝古古開的架站課，你自己成功做出來的東西就是會很有成就感。</description>
+      
+    </item>
+    
+    <item>
+      <title>我現在在做什麼？</title>
       <link>https://pwhau.github.io/now/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://pwhau.github.io/now/</guid>
       
-      <description>Last updated: September 29, 2025 – adjusted for self-disclosure and privacy concerns
-🌱 Season: early spring
-📍 Location: a quiet riverside town on the North Island, rarely visited even by locals.
-Recently moved into a new home by the river, surrounded by beautiful scenery. Sunlight filters through the trees, letting me feel the changing seasons and warmth.
-Current Status Started recording my solo podcast, sharing travel stories and life observations Continuing to write, making the website a place for documentation and exchange Reflecting on the next stage of work and life Started my podcast The initial concept was to talk about my travel stories and to have fun laughing out loud.</description>
+      <description>上次更新時間 2025年9月29日 - 糾結於自我揭露與資訊安全
+🌱 氣候：初春的節奏。
+📍 座標：北島一個連當地人都很少來往的河岸小鎮。
+近期搬到鄰近河岸的新家，景色怡人，陽光透過樹影灑進屋內，讓人感受到季節的更迭與溫暖。
+近況 開始錄製 Podcast，分享旅行故事與生活觀察 持續寫作，讓網站成為記錄與交流的地方 思考下一階段的工作與生活方向 開始了自己的 Podcaset 聊聊為什麼？ 一開始的定調是，想聊自己的旅遊故事，也想要有盡情大笑的歡鬧。
+也想聊聊自己的天馬行空，不可能世界上只有我有這種想法吧？
+也想聊一些能感動落淚的心事，畢竟人生有的是酸甜苦辣。
+只是太過習慣於輸入，連拿起筆都生疏了。 連說話，都忘記怎麼說了？
+好處是，能再學習一次。
+最後還是只能自己一個人做著自己覺得好像很有趣的事情啊。
+可是回過頭，從一開始出發也是自己選擇的。
+雖然少了些相同的共鳴與歡笑，但是一屋二人三餐四季。
+別擔心，我的朋友。我過得其實還不錯，你/妳呢？
+希望我留下的漂流瓶，你/妳會一時興起打開來看看。
+話說它現在已經是小樹的樣子了，伴隨著埋入的時光膠囊，希望它成長茁壯。
+我們能在樹洞裡，分享秘密，說好了，是我們的秘密基地。
+希望也能接住誰。 再度歸零的日子 你知道嗎？每一次換一座城市生活，等於重新歸零。
+這就是被迫常常搬家，轉學生的心情嗎？不過大人的重新歸零，每一次都是沈沒成本。
+這裡要感謝自己很有勇氣，也很有彈性。但也要感謝身邊的你？
+因為我覺得，每次都說一個人其實並不可能都是完全的一個人。
+總是會在某個寂寞角落裡又感受到你的微光。
+遠方的你，請保重。 下一步 打磨 Podcast 與寫作內容 讓網站更有個人特色 探索生活裡新的機會 This page inspired by Derek Sivers </description>
       
     </item>
     
     <item>
-      <title>Revised New Themes</title>
+      <title>關於我</title>
+      <link>https://pwhau.github.io/pages/about/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwhau.github.io/pages/about/</guid>
+      
+      <description>上次更新時間 2025年9月29日 - 糾結於自我揭露與資訊安全
+既然這世界上不會有人理你，大家都在忙碌經營自身，自我揭露太多應該也不成問題？如此就成為一個小小自傳吧。
+我擁有的都是僥倖 個人簡歷 出生於台灣 Millennials 求學過程中參與過樂隊，當過社團幹部。也經歷過一些青澀又特別的階段 手風琴樂隊 美好時光 世界是一本書，不旅行的人只讀了其中的一頁 - 聖奧古斯丁 旅行簡歷 曾經用雙輪環繞過故鄉 追風少年 從北半球跨越南半球 咖啡之都 南極光 走過幾個東南亞國家 娘惹風光 詐騙園區 吳哥之美 回到台灣後經歷新的階段 看見自己 社畜日子 從五星飯店到連鎖咖啡館 皇后鎮 陶波 威靈頓 再到新大陸裡找尋生活節奏 五星飯店日子 在新大陸中，學會流浪、適應與歸屬 溫哥華 卡加利 班夫 再次歸零，再一次出發 聊聊Wade什麼？ 去看一看這個世界 關於我做過的工作 數位行銷、攝影、農場、飯店、客服、工程師、餐飲與調酒 ——
+不一定是選擇，更多時候只是為了生活。
+但每一份經驗，都成為了我旅程的一部分。
+通常沒有選擇的餘地，只為了符合馬斯洛的最底層。 描述關於我 普通開局，偶爾也會羨慕別人的順風順水。
+但好奇心讓我一直走下去，喜歡不同文化、人文與風景。
+喜歡藝術，也喜歡學習 —— 攝影、UI/UX、心理學，都是嘗試性自學的領域。
+喜歡帶著拍利得旅行 —— 著迷於拍立得所凍結的那一個瞬間。
+某些測驗說我是矛盾的結合體，既內向又能社交，既工作狂又嚮往自由。
+我需要獨處，但也渴望分享。
+就算偶爾會隱身模式，還是希望透過文字或 Podcast，留下我的聲音。
+金星雙魚 我是旅人 我一直在找家。
+有人說，心安處即是家，但我仍覺得環境的重要。
+對我來說，行李箱就是家的起點。
+朋友與家人，是支撐，也是回憶。
+人生旅途中有些人逐漸淡去但我仍懷念曾經與我共笑的人。
+也許 這裡/Podcast 是我準備的「PPT」，用來重新認識自己、與世界分享。</description>
+      
+    </item>
+    
+    <item>
+      <title>改版 New Themes</title>
       <link>https://pwhau.github.io/posts/1_new_themes/</link>
       <pubDate>Wed, 28 May 2025 16:55:29 +1200</pubDate>
       
       <guid>https://pwhau.github.io/posts/1_new_themes/</guid>
       
       <description>0528
-It took about six hours to help the website change clothes.
-The Hugo version I originally used was too old and did not support the new Hugo theme.
-The hugo theme also said that the hugo version was to be extended, and said that my operating system was too old.
-Finally, it was done, plus the article handling.
-There are still many things to be changed&amp;hellip;~ The ideal state is that it can be successfully pushed up.</description>
+花了大概六小時幫網站換衣服。
+原本用的Hugo版本太舊了，結果不支援新的hugo主題。
+hugo主題又說hugo版本又說要延伸版本的，還說我的作業系統太舊。
+最後總算搞好了，外加搬運文章。
+還有好多東西要改的..理想的狀態是可以成功推上去。
+測試自動部署靜態網站功能
+不知道為什麼automator還是不能用
+回首五年過去了，過去的文字永遠是那麼不堪入目..
+0530
+Q:如何解構這個模組化的網站結構? Q:如何添加一整個新的網頁在這個sampleSite?(包含css, html, js) Q:如何客製化新的網頁? Q:如何管理這些模組? Q:多語言翻譯功能(標題)?(處理中/因公共網路) 0605 更新自動翻譯(含標題)功能
+0605 更新刪除多語系文章功能</description>
       
     </item>
     
     <item>
-      <title>Restart the machine</title>
+      <title>重開機</title>
       <link>https://pwhau.github.io/posts/9_renew/</link>
       <pubDate>Tue, 27 May 2025 17:58:02 +1200</pubDate>
       
       <guid>https://pwhau.github.io/posts/9_renew/</guid>
       
-      <description>Unexpectedly, five years have passed.
-After living in Australia, New Zealand, Canada.
-Don’t know if you are an immigrant?At most, they should be foreign workers.But taking root is a trouble?
-Let me first talk about why I started recording the blog again?In fact, it is in view of Facebook&amp;rsquo;s comment censorship.
-Maybe from the perspective of the company, do you care more about interests?But I think what is more important is the right to freedom of expression.</description>
+      <description>沒想到五年過去了。
+在澳洲，紐西蘭，加拿大生活之後。
+不知道自己算不算移民者了？應該頂多是外籍勞工。不過落地生根也算是種煩惱？
+先說為什麼重新開始記錄Blog？其實是鑑於facebook言論審查的新聞。
+可能對於公司的角度，在乎更多的是利益？但我覺得更重要的是表達自由的權利。
+受制於平台下，活在別人的遊戲規則裡面&amp;hellip;包含政治？。
+我想每個人都有自己心中的立場，最起碼你有投票的權利，擇你所愛。
+我自己以前很少接觸這些，現在也算。認為這是在於我生活之外的範圍。
+直到看到這首詩後有了想法。
+德文（1946年原文版） Als die Nazis die Kommunisten holten,起初，納粹抓共產黨人的時候， habe ich geschwiegen; ich war ja kein Kommunist.我沉默，因為我不是共產黨人。
+Als sie die Sozialdemokraten einsperrten,當他們抓社會民主主義者的時候， habe ich geschwiegen; ich war ja kein Sozialdemokrat.我沉默，因為我不是社會民主主義者。
+Als sie die Gewerkschafter holten,當他們抓工會成員的時候， habe ich nicht protestiert; ich war ja kein Gewerkschafter.我沉默，因為我不是工會成員。
+Als sie die Juden holten,當他們抓猶太人的時候， habe ich geschwiegen; ich war ja kein Jude.我沉默，因為我不是猶太人。
+Als sie mich holten,最後當他們來抓我時， gab es keinen mehr, der protestieren konnte.</description>
       
     </item>
     
     <item>
-      <title>Table of content</title>
-      <link>https://pwhau.github.io/posts/0.table-of-content/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/0.table-of-content/</guid>
-      
-      <description>Table of content This theme supports displaying table of content (ToC) in blog posts.
-Parameters You can manage a ToC with two parameters:
-global toc parameter; post toc parameter. The post toc parameter has higher priority than the global toc parameter.
-Enable table of content on all posts To enable ToC on all posts (globally) set parameter toc to true in hugo.toml.
-[params] toc = true To disable ToC globally, simply ignore the toc parameter or set it to false.</description>
-      
-    </item>
-    
-    <item>
-      <title>Math Typesetting - use Mathematical notation in blog posts</title>
-      <link>https://pwhau.github.io/posts/0.math-typesetting/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/0.math-typesetting/</guid>
-      
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
-&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://pwhau.github.io/posts/0.markdown-syntax/</link>
+      <title>Markdown 文法指南</title>
+      <link>https://pwhau.github.io/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/posts/0.markdown-syntax/</guid>
+      <guid>https://pwhau.github.io/posts/markdown-syntax/</guid>
       
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://pwhau.github.io/posts/0.rich-content/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/0.rich-content/</guid>
-      
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>&lt;p&gt;本文提供了 Hugo 內容檔案中可以使用的 Markdown 語法範例，同時展示了 Hugo 主題中是否對基本 HTML 元素進行了 CSS 裝飾。&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://pwhau.github.io/posts/0.placeholder-text/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/0.placeholder-text/</guid>
-      
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
+      <title>關於 Hugo</title>
       <link>https://pwhau.github.io/pages/about_hugo/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pwhau.github.io/pages/about_hugo/</guid>
       
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://pwhau.github.io/posts/0.emoji-support/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/0.emoji-support/</guid>
-      
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>Hugo 是用 Go 語言編寫的開源靜態網站產生器，遵循 Apache Licence 2.0 授權。 Hugo 支援 TOML、YAML 和 JSON 資料檔案類型，以及 Markdown 和 HTML 內容文件，並使用短程式碼來添加豐富的內容。其他顯著功能包括分類法、多語言模式、影像處理、自訂輸出格式、HTML/CSS/JS 壓縮以及對 Sass SCSS 工作流程的支援。
+Hugo 使用了多種開源項目，包括：
+https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo 非常適合部落格、企業網站、創意作品集、線上雜誌、單頁應用程序，甚至是擁有數千頁的網站。
+Hugo 適合那些希望手動編寫自己的網站，而不必擔心設定複雜的執行環境、依賴項和資料庫的人。
+使用 Hugo 建置的網站速度極快、安全性高，並且可以部署在任何地方，包括 AWS、GitHub Pages、Heroku、Netlify 以及任何其他託管提供者。
+在 GitHub 上了解更多並參與貢獻。</description>
       
     </item>
     
@@ -317,21 +372,13 @@ print(hello world) [呈現的超連結文字](/blog/post-0) [跳到其他文章-
     </item>
     
     <item>
-      <title>How To Use Markdown</title>
-      <link>https://pwhau.github.io/posts/00_how-to-use-markdown/00_how-to-use-markdown/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>測試頁</title>
+      <link>https://pwhau.github.io/pages/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pwhau.github.io/posts/00_how-to-use-markdown/00_how-to-use-markdown/</guid>
+      <guid>https://pwhau.github.io/pages/test/</guid>
       
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.
-Link I&amp;rsquo;m an inline-style link
-I&amp;rsquo;m an inline-style link with title
-I&amp;rsquo;m a reference-style link
-I&amp;rsquo;m a relative reference to a repository file
-You can use numbers for reference-style link definitions</description>
+      <description></description>
       
     </item>
     

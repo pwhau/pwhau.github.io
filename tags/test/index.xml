@@ -5,7 +5,7 @@
     <link>https://pwhau.github.io/tags/test/</link>
     <description>Recent content in Test on Wade&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Sep 2020 23:23:17 +0800</lastBuildDate><atom:link href="https://pwhau.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>網站設計紀錄</title>
@@ -70,25 +70,6 @@ print(hello world) [呈現的超連結文字](/blog/post-0) [跳到其他文章-
 額外使用typora這工具
 再考慮看看
 /Users/powei/Desktop/exampleSite/themes/liva-hugo/assets/scss/templates/_main.scss Markdown渲染樣式路徑 (Markdown&amp;#39;s font-size,etc) </description>
-      
-    </item>
-    
-    <item>
-      <title>How To Use Markdown</title>
-      <link>https://pwhau.github.io/posts/00_how-to-use-markdown/00_how-to-use-markdown/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://pwhau.github.io/posts/00_how-to-use-markdown/00_how-to-use-markdown/</guid>
-      
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.
-Link I&amp;rsquo;m an inline-style link
-I&amp;rsquo;m an inline-style link with title
-I&amp;rsquo;m a reference-style link
-I&amp;rsquo;m a relative reference to a repository file
-You can use numbers for reference-style link definitions</description>
       
     </item>
     

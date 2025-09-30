@@ -2,652 +2,309 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pwhau.github.io/zh-tw/pages/</loc>
+    <loc>https://pwhau.github.io/pages/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/pages/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/</loc>
+    <loc>https://pwhau.github.io/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/pages/about_souls/</loc>
+    <loc>https://pwhau.github.io/pages/about_souls/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
+    <loc>https://pwhau.github.io/posts/</loc>
     <lastmod>2025-09-30T10:23:35+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/10backtoblog/</loc>
+    <loc>https://pwhau.github.io/posts/10backtoblog/</loc>
     <lastmod>2025-09-30T10:23:35+13:00</lastmod>
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/now/</loc>
+    <loc>https://pwhau.github.io/now/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/now/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/now/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/now/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/pages/about/</loc>
+    <loc>https://pwhau.github.io/pages/about/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/pages/about/"
+                href="https://pwhau.github.io/en-gb/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/about/"
+                href="https://pwhau.github.io/pages/about/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/1_new_themes/</loc>
+    <loc>https://pwhau.github.io/posts/1_new_themes/</loc>
     <lastmod>2025-05-28T16:55:29+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/1_new_themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/1_new_themes/"
+                href="https://pwhau.github.io/en-gb/posts/1_new_themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/1_new_themes/"
+                href="https://pwhau.github.io/posts/1_new_themes/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/9_renew/</loc>
+    <loc>https://pwhau.github.io/posts/9_renew/</loc>
     <lastmod>2025-05-27T17:58:02+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/posts/9_renew/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/posts/9_renew/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/9_renew/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/9_renew/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/table-of-content/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/table-of-content/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/math-typesetting/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/math-typesetting/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/markdown-syntax/</loc>
+    <loc>https://pwhau.github.io/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/markdown-syntax/"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/markdown-syntax/"
+                href="https://pwhau.github.io/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/rich-content/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/rich-content/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/placeholder-text/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/pages/about_hugo/</loc>
+    <loc>https://pwhau.github.io/pages/about_hugo/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/pages/about_hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
                 href="https://pwhau.github.io/pages/about_hugo/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/about_hugo/"
-                />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/tags/emoji/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://pwhau.github.io/tags/anaconda/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/categories/blog/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/tags/emoji/"
+                href="https://pwhau.github.io/en-gb/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/tags/emoji/"
+                href="https://pwhau.github.io/categories/blog/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/emoji-support/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://pwhau.github.io/categories/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/tags/"
+                href="https://pwhau.github.io/en-gb/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/tags/"
-                />
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
                 href="https://pwhau.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://pwhau.github.io/tags/django/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/mac/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/mysql/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/php/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/python/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/sqlite3/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
-                href="https://pwhau.github.io/de-de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://pwhau.github.io/fr-fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pwhau.github.io/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pwhau.github.io/pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://pwhau.github.io/ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pwhau.github.io/it/categories/"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/categories/"
+                href="https://pwhau.github.io/tags/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/pages/test/</loc>
+    <loc>https://pwhau.github.io/tags/vscode/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/8_murmur04/8_murmur04/</loc>
+    <lastmod>2020-12-17T10:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/xampp/</loc>
+    <lastmod>2020-11-10T23:51:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/7_murmur03/7_murmur03/</loc>
+    <lastmod>2020-11-10T23:51:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/6_murmur02/6_murmur02/</loc>
+    <lastmod>2020-11-09T00:01:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/diary/</loc>
+    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/murmur/</loc>
+    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/5_midnightmurmur/5_midnightmurmur/</loc>
+    <lastmod>2020-10-15T03:13:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/automator/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/blog/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/blog/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/tags/hugo/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/categories/hugo/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/markdown/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/tags/test/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/test/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/tags/vs-code/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/vs-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/vs-code/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/posts/4_web-design-log/4_web-design-log/</loc>
+    <lastmod>2020-09-29T23:23:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/tags/photos/</loc>
+    <lastmod>2020-09-23T02:41:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/en-gb/tags/photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/tags/photos/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/posts/2_memes/2_memes/</loc>
+    <lastmod>2020-09-23T02:41:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/1_hello/1_hello/</loc>
+    <lastmod>2020-09-22T04:07:17+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/posts/0_my-first-post/0_my-first-post/</loc>
+    <lastmod>2020-09-22T02:54:47+08:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/pages/test/</loc>
   </url>
 </urlset>
