@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
-    <lastmod>2025-10-01T10:23:35+13:00</lastmod>
+    <loc>https://pwhau.github.io/zh-tw/pages/</loc>
+    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/posts/"
+                href="https://pwhau.github.io/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/"
+                href="https://pwhau.github.io/zh-tw/pages/"
                 />
   </url><url>
     <loc>https://pwhau.github.io/zh-tw/</loc>
-    <lastmod>2025-10-01T10:23:35+13:00</lastmod>
+    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -28,21 +28,27 @@
                 href="https://pwhau.github.io/zh-tw/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/11_recycle-warm-farm/</loc>
-    <lastmod>2025-10-01T10:23:35+13:00</lastmod>
+    <loc>https://pwhau.github.io/zh-tw/pages/about_mototraveltaiwan/</loc>
+    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/pages/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
+    <lastmod>2025-10-03T10:23:35+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://pwhau.github.io/pages/"
+                href="https://pwhau.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/pages/"
+                href="https://pwhau.github.io/zh-tw/posts/"
                 />
+  </url><url>
+    <loc>https://pwhau.github.io/zh-tw/posts/12_voyagergoldenrecords/</loc>
+    <lastmod>2025-10-03T10:23:35+13:00</lastmod>
+  </url><url>
+    <loc>https://pwhau.github.io/zh-tw/posts/11_recycle-warm-farm/</loc>
+    <lastmod>2025-10-01T10:23:35+13:00</lastmod>
   </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/about_souls/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
