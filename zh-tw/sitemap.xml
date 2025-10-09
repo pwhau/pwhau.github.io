@@ -2,6 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
+    <lastmod>2025-10-09T10:23:35+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/posts/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/zh-tw/</loc>
+    <lastmod>2025-10-09T10:23:35+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://pwhau.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://pwhau.github.io/zh-tw/"
+                />
+  </url><url>
+    <loc>https://pwhau.github.io/zh-tw/posts/14_travelerandwander/</loc>
+    <lastmod>2025-10-09T10:23:35+13:00</lastmod>
+  </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/wh_linkforest/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,34 +47,8 @@
                 href="https://pwhau.github.io/zh-tw/pages/"
                 />
   </url><url>
-    <loc>https://pwhau.github.io/zh-tw/</loc>
-    <lastmod>2025-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://pwhau.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/"
-                />
-  </url><url>
     <loc>https://pwhau.github.io/zh-tw/pages/about_mototraveltaiwan/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
-    <lastmod>2025-10-03T10:23:35+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://pwhau.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://pwhau.github.io/zh-tw/posts/"
-                />
   </url><url>
     <loc>https://pwhau.github.io/zh-tw/posts/12_voyagergoldenrecords/</loc>
     <lastmod>2025-10-03T10:23:35+13:00</lastmod>
