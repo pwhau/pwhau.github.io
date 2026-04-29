@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wade&#39;s Blog</title>
+    <link>https://pwhau.github.io/en-gb/tags/</link>
+    <description>Recent content in Tags on Wade&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://pwhau.github.io/en-gb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://pwhau.github.io/en-gb/tags/blog/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/blog/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://pwhau.github.io/en-gb/tags/hugo/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/hugo/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://pwhau.github.io/en-gb/tags/markdown/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/markdown/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://pwhau.github.io/en-gb/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/photos/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://pwhau.github.io/en-gb/tags/test/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/test/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VS Code</title>
+      <link>https://pwhau.github.io/en-gb/tags/vs-code/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://pwhau.github.io/en-gb/tags/vs-code/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
