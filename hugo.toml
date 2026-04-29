@@ -2,7 +2,7 @@ title = "Wade's Blog"
 baseURL = "https://pwhau.github.io/"
 
 # This is what goes in <html lang="">
-languageCode = "en-us"
+languageCode = "zh-tw"
 
 # This defines how dates are formatted
 defaultContentLanguage = "zh-tw"
@@ -53,6 +53,7 @@ theme = "hugo-blog-awesome"
   languageName = "English"
   languageCode = "en-gb"
   contentDir = "content/en"
+  
   weight = 1
 
   [Languages.en-gb.menu]
