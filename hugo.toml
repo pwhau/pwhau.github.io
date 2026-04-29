@@ -7,10 +7,6 @@ languageCode = "en-us"
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 # Enable emojis globally
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
