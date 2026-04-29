@@ -6,13 +6,14 @@ languageCode = "zh-tw"
 
 # This defines how dates are formatted
 defaultContentLanguage = "zh-tw"
+defaultContentLanguageInSubdir = false #
 
 # Enable emojis globally
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 
 # traditional way: theme component resides in directory 'themes'
-theme = "hugo-blog-awesome"
+theme = "hugo-blog-awesome-themes"
 
 # modern way: pull in theme component as hugo module
 #[module]
@@ -53,7 +54,7 @@ theme = "hugo-blog-awesome"
   languageName = "English"
   languageCode = "en-gb"
   contentDir = "content/en"
-  
+
   weight = 1
 
   [Languages.en-gb.menu]
