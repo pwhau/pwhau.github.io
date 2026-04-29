@@ -4,34 +4,23 @@
     <title>Pages on Wade&#39;s Blog</title>
     <link>https://pwhau.github.io/pages/</link>
     <description>Recent content in Pages on Wade&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pwhau.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pwhau.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://pwhau.github.io/pages/about/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://pwhau.github.io/pages/about/</guid>
-      
-      <description>Last updated: September 29, 2025 – refined for privacy
-Since no one in this world will truly care, and everyone is busy managing themselves, sharing too much shouldn’t really be a problem. So, let this be a small personal autobiography.
-Everything I have is pure luck Personal Background Born in Taiwan Millennial Participated in school bands and held club positions during education Accordion Band Good Times &amp;ldquo;The world is a book, and those who do not travel read only a page.</description>
-      
+      <description>Last updated: September 29, 2025 – refined for privacy&#xA;Since no one in this world will truly care, and everyone is busy managing themselves, sharing too much shouldn’t really be a problem. So, let this be a small personal autobiography.&#xA;Everything I have is pure luck Personal Background Born in Taiwan Millennial Participated in school bands and held club positions during education Accordion Band Good Times &amp;ldquo;The world is a book, and those who do not travel read only a page.</description>
     </item>
-    
     <item>
       <title>About Hugo</title>
       <link>https://pwhau.github.io/pages/about_hugo/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://pwhau.github.io/pages/about_hugo/</guid>
-      
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-      
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
-    
   </channel>
 </rss>
