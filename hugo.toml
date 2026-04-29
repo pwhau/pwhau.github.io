@@ -5,7 +5,7 @@ baseURL = "https://pwhau.github.io/"
 languageCode = "en-us"
 
 # This defines how dates are formatted
-defaultContentLanguage = "en-gb"
+defaultContentLanguage = "zh-tw"
 
 # Enable emojis globally
 enableEmoji = true
