@@ -2,18 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <loc>https://pwhau.github.io/posts/</loc>
     <lastmod>2025-10-16T10:23:35+13:00</lastmod>
-=======
-    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
-    <lastmod>2025-10-13T10:23:35+13:00</lastmod>
->>>>>>> parent of 028be52... post15 updated
-=======
-    <loc>https://pwhau.github.io/zh-tw/posts/</loc>
-    <lastmod>2025-10-13T10:23:35+13:00</lastmod>
->>>>>>> parent of 028be52... post15 updated
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -25,22 +15,8 @@
                 href="https://pwhau.github.io/posts/"
                 />
   </url><url>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <loc>https://pwhau.github.io/</loc>
     <lastmod>2025-10-16T10:23:35+13:00</lastmod>
-=======
-=======
->>>>>>> parent of 028be52... post15 updated
-    <loc>https://pwhau.github.io/zh-tw/posts/15_1013daily/</loc>
-    <lastmod>2025-10-13T10:23:35+13:00</lastmod>
-  </url><url>
-    <loc>https://pwhau.github.io/zh-tw/</loc>
-    <lastmod>2025-10-13T10:23:35+13:00</lastmod>
-<<<<<<< HEAD
->>>>>>> parent of 028be52... post15 updated
-=======
->>>>>>> parent of 028be52... post15 updated
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -52,17 +28,10 @@
                 href="https://pwhau.github.io/"
                 />
   </url><url>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <loc>https://pwhau.github.io/posts/15_1013daily/</loc>
     <lastmod>2025-10-13T10:23:35+13:00</lastmod>
   </url><url>
     <loc>https://pwhau.github.io/posts/14_travelerandwander/</loc>
-=======
-=======
->>>>>>> parent of 028be52... post15 updated
-    <loc>https://pwhau.github.io/zh-tw/posts/14_travelerandwander/</loc>
->>>>>>> parent of 028be52... post15 updated
     <lastmod>2025-10-09T10:23:35+13:00</lastmod>
   </url><url>
     <loc>https://pwhau.github.io/pages/wh_linkforest/</loc>
